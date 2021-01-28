@@ -6,6 +6,14 @@ from .states.name_unknown_state import Name_Unknown_State
 from .states.name_known_state import Name_Known_State
 from .states.result_or_damage_state import Result_Or_Damage_State
 
+"""
+The parser is implemented as an object-oriented state machine. It keeps track of the various states it can be in
+as well as the state it is currently in. Every state implements the same methods which are called to affect state transitions
+and/or parsing actions. The parser uses regexes to recognize that a particular state method should be called. 
+
+The parser's embedded states call the embedded Statistics class' add_roll() method which associates a name with a roll
+when a d20 roll is encountered.
+"""
 class Parser:
     def __init__(self, statistics, debug):
         self.statistics = statistics
