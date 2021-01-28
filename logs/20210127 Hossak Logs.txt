@@ -1,0 +1,633 @@
+Raven Amazing:
+6 + 5
+Piercing
+Sevettijärvi:
+15
+60 feet
+Ray of Frost (+5)
+4
+Cold
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+2
+Cold
+60 feet
+Frostbite
+14
+WISDOM SAVE (0)
+Raven Amazing:
+11
+CONSTITUTION SAVE (4)
+14 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+6
+Piercing
+18 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+6
+Piercing
+Elote Silver Tongue:
+7
+CONSTITUTION SAVE (2)
+Sevettijärvi:
+20
+60 feet
+Ray of Frost (+5)
+1
+Cold
+Elote Silver Tongue:
+24
+Glowing Shortsword (+5)
+8
+Piercing
+Raven Amazing:
+22
+100/400
+Heavy Crossbow (+3)
+4
+Piercing
+Ash:
+17
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+6
+Higher Level Cast
+14
+11
+CONSTITUTION SAVE (4)
+Raven Amazing:
+27 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+11
+Piercing
+rolling d10
+(
+9
+)
+=9
+Sevettijärvi:
+12
+CONSTITUTION SAVE (4)
+Breath Weapon
+Racial: Dragonborn
+You can use your action to exhale destructive energy. Your blue draconic ancestry means this exhalation is a 5 by 30 ft. line dealing lightning damage.
+When you use your breath weapon, each creature in the area of the exhalation must make a Dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.
+After you use your breath weapon, you can't use it again until you complete a short or long rest.
+rolling 2d6
+(
+1
++
+1
+)
+=2
+Elote Silver Tongue:
+19
+Glowing Shortsword (+5)
+8
+Piercing
+Raven Amazing:
+Let's Pin It Down
+Background: Fisher/Hunter
+As a Bonus Action, secure a length of rope to the end of a barbed crossbow bolt so that it grapples the target on hit in addition to dealing damage.
+
+As an Action, yank on the rope connected to a grappled target to deal 1d4 Piercing and make the grappled creature make a DC11 STR Save or be pulled 10ft toward you.
+
+A grappled creature may use an action to attack the rope (DC=8, HP=5 Slashing) or pull the barbed bolt out (DC12 CON Save or take 2d4 Piercing, half-damage on save).
+19
+100/400
+Heavy Crossbow (+3)
+11
+Piercing
+Ash:
+16
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+4
+Higher Level Cast
+17
+20
+CONSTITUTION SAVE (4)
+19
+CHARISMA SAVE (6)
+Sevettijärvi:
+9
+CONSTITUTION SAVE (4)
+Raven Amazing:
+26 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+7
+Piercing
+6
+CONSTITUTION SAVE (4)
+Sevettijärvi:
+12
+DEATH SAVE (0)
+Elote Silver Tongue:
+12
+Glowing Shortsword (+5)
+5
+Piercing
+Raven Amazing:
+8
+100/400
+Heavy Crossbow (+3)
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+1
+Cold
+60 feet
+Frostbite
+Raven Amazing:
+1
+CONSTITUTION SAVE (0)
+20 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+5
+Piercing
+Flabnatz (GM):
+FOR DESCRIPTION ONLY
+Cure Wounds
+Evocation 1
+Casting Time: 1 action
+Range: Touch
+Target: A creature you touch
+Components: V, S
+Duration: Instantaneous
+A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the Healing increases by 1d8 for each slot level above 1st.
+SPELL SAVE DC: 12
+Elote Silver Tongue:
+4
+Healing
+Touch
+Cure Wounds
+9
+Healing
+Touch
+Cure Wounds
+5
+INSIGHT (4)
+Flabnatz (GM):We're gonna call it cuz it's late :)
+Jake:
+Mage Armor
+Abjuration 1
+Casting Time: 1 action
+Range: Touch
+Target: A willing creature who isn't wearing armor
+Components: V, S, M (A piece of cured leather)
+Duration: 8 hours
+You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target’s base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+SPELL SAVE DC: 14
+Kody M.:
+Message
+Transmutation Cantrip
+Casting Time: 1 action
+Range: 120 feet
+Target: A creature within range
+Components: V, S, M (A short piece of copper wire)
+Duration: 1 round
+You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear. You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
+SPELL SAVE DC: 12
+Raven Amazing:
+FOR DESCRIPTION ONLY
+True Strike
+Divination Cantrip
+Casting Time: 1 action
+Range: 30 feet
+Target: A target in range
+Components: S
+Duration: Concentration Up to 1 round
+You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target’s defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn’t ended.
+SPELL SAVE DC: 0
+Kody M.:
+Message
+Transmutation Cantrip
+Casting Time: 1 action
+Range: 120 feet
+Target: A creature within range
+Components: V, S, M (A short piece of copper wire)
+Duration: 1 round
+You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear. You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
+SPELL SAVE DC: 12
+Message
+Transmutation Cantrip
+Casting Time: 1 action
+Range: 120 feet
+Target: A creature within range
+Components: V, S, M (A short piece of copper wire)
+Duration: 1 round
+You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear. You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
+SPELL SAVE DC: 12
+Jake:
+5.14
+INITIATIVE (2.14)
+Raven Amazing:
+14.18
+INITIATIVE (4.18)
+Sevettijärvi:
+6.12
+INITIATIVE (1.12)
+Kody M.:
+18.17
+INITIATIVE (4.17)
+Raven Amazing:
+19.12
+INITIATIVE (1.12)
+Kody M.:
+9.12
+INITIATIVE (1.12)
+5.17
+INITIATIVE (4.17)
+Raven Amazing:
+19.18
+INITIATIVE (4.18)
+Kody M.:
+3.12
+INITIATIVE (1.12)
+Raven Amazing:
+6
+100/400
+Heavy Crossbow (+3)
+Kody M.:
+DC12
+Wisdom Save
+1
+Psychic
+60 feet
+Vicious Mockery
+Raven Amazing:
+22 + 2  14 + 2
+Rapier (+6)
+12
+Piercing
+Kody M.:
+10  6
+DEXTERITY SAVE (1)
+Sevettijärvi:
+17
+60 feet
+Ray of Frost (+5)
+Jake:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+4
+Cold
+60 feet
+Frostbite
+Raven Amazing:
+7
+100/400
+Heavy Crossbow (+3)
+Kody M.:
+23
+Hit Points of Creatures
+90 feet
+Sleep
+Raven Amazing:
+12 + 2
+Rapier (+6)
+Sevettijärvi:
+23
+Touch
+Shocking Grasp (+5)
+5
+Lightning
+Jake:
+20
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+7
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+9
+Raven Amazing:
+14
+100/400
+Heavy Crossbow (+3)
+Kody M.:
+13
+Hit Points of Creatures
+90 feet
+Sleep
+Raven Amazing:
+13 + 2
+Rapier (+6)
+Sevettijärvi:
+22
+Touch
+Shocking Grasp (+5)
+5
+Lightning
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+6
+Cold
+60 feet
+Frostbite
+Raven Amazing:
+4
+100/400
+Heavy Crossbow (+3)
+Kody M.:
+DC12
+Wisdom Save
+4
+Psychic
+60 feet
+Vicious Mockery
+Raven Amazing:
+17 + 2
+Rapier (+6)
+10
+Piercing
+Kody M.:
+Scimitar (+2)
+Sevettijärvi:
+21
+Touch
+Shocking Grasp (+5)
+7
+Lightning
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+6
+Cold
+60 feet
+Frostbite
+Kody M.:rolling d6
+(
+2
+)
+=2
+Raven Amazing:
+12
+20/60
+Handaxe (+3)
+Kody M.:
+23
+Glowing Shortsword (+5)
+8
+Piercing
+Raven Amazing:
+10 + 2
+Rapier (+6)
+Kody M.:
+7
+Scimitar (+2)
+Sevettijärvi:
+19
+30 feet
+Witch Bolt (+5)
+2
+Lightning
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+2
+Cold
+60 feet
+Frostbite
+Raven Amazing:
+13
+20/60
+Handaxe (+3)
+Kody M.:
+16
+Glowing Shortsword (+5)
+Raven Amazing:
+7 + 2
+Rapier (+6)
+Kody M.:
+4
+Scimitar (+2)
+Sevettijärvi:rolling 1d12
+(
+12
+)
+=12
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+4
+Cold
+60 feet
+Frostbite
+Raven Amazing:
+15
+20/60
+Handaxe (+3)
+Kody M.:
+DC12
+Wisdom Save
+1
+Psychic
+60 feet
+Vicious Mockery
+Raven Amazing:
+8 + 2
+Rapier (+6)
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+1
+Cold
+60 feet
+Frostbite
+Raven Amazing:
+18
+20/60
+Handaxe (+3)
+18 + 2
+Rapier (+6)
+8
+Piercing
+Sevettijärvi:
+21
+60 feet
+Ray of Frost (+5)
+8
+Cold
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+2
+Cold
+60 feet
+Frostbite
+Raven Amazing:
+13
+100/400
+Heavy Crossbow (+3)
+18 + 2
+Rapier (+6)
+Kody M.:
+Message
+Transmutation Cantrip
+Casting Time: 1 action
+Range: 120 feet
+Target: A creature within range
+Components: V, S, M (A short piece of copper wire)
+Duration: 1 round
+You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear. You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
+SPELL SAVE DC: 12
+Raven Amazing:
+5
+Piercing
+Sevettijärvi:
+13
+60 feet
+Ray of Frost (+5)
+Ash:
+20
+Touch
+Shocking Grasp (+6)
+Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can’t take reactions until the start of its next turn.
+6
+Lightning
+Raven Amazing:
+6
+PERCEPTION (3)
+Kody M.:
+4
+PERCEPTION (2)
+20
+ARCANA (5)
+Ash:
+10
+PERCEPTION (0)
+"/w gm textextext"
+(To GM): I try to stealthily move towards the light
+(To GM):
+21
+STEALTH (4)
+Kody M.:
+16
+PERCEPTION (2)
+Sevettijärvi:
+7
+INVESTIGATION (0)
+Kody M.:
+17
+STRENGTH SAVE (-1)
+11
+ATHLETICS (1)
+1
+STRENGTH (-1+1)
+17
+CONSTITUTION SAVE (2)
+Sevettijärvi:
+21
+ATHLETICS (4)
+16
+STRENGTH SAVE (2)
+Kody M.:
+22
+Glowing Shortsword (+5)
+6
+Piercing
+6
+ATHLETICS (1)
+12
+STRENGTH (-1+1)
+23  17
+DEXTERITY (3+1)
+10  11
+ATHLETICS (1)
+Kody M.:
+12  13
+PERFORMANCE (4)
+6
+INSIGHT (4)
+10
+ATHLETICS (0)
+Raven Amazing:
+8
+STRENGTH SAVE (3)
+Kody M.:
+17
+Rapier (+5)
+7
+Piercing
+Ash:
+14
+ATHLETICS (-1)
+Kody M.:
+0  19
+STRENGTH SAVE (-1)
+Ash:
+2  17
+INTELLIGENCE (0)
+6  7
+DEXTERITY (2)
+2
+INVESTIGATION (0)
+Kody M.:
+19
+INVESTIGATION (2)
+Raven Amazing:
+10
+ATHLETICS (2)
+Sevettijärvi:
+16
+PERCEPTION (-1)

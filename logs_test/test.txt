@@ -1,0 +1,25 @@
+jake:
+Flabnatz (GM):rolling d20
+(
+14
+)
+=14
+Flabnatz (GM):rolling 1d20 + 5
+(
+7
+)+5
+=12
+rolling 1d20 + 5
+(
+8
+)+5
+=13
+5
+20 + 2
+20 2
+Light Crossbow (+4)
+Light Crossbow (-1)
+14.14
+INITIATIVE (2.14)
+
+rolling 4d4+2

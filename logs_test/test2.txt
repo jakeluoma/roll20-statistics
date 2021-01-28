@@ -1,0 +1,99 @@
+Kody M.:
+3
+PERCEPTION (2)
+Ash:
+4
+PERCEPTION (0)
+Mike:
+4
+PERCEPTION (-1)
+Kody M.:
+19
+PERCEPTION (2)
+1
+PERCEPTION (0)
+Ash:
+15
+INSIGHT (2)
+Elote Silver Tongue:
+6
+INVESTIGATION (2)
+Ash:
+5
+INVESTIGATION (0)
+Elote Silver Tongue:
+10  9
+INVESTIGATION (2)
+Ash:rolling 1d4
+(
+2
+)
+=2
+(To GM): test test
+Elote Silver Tongue:
+15  24
+ARCANA (5)
+9
+MEDICINE (1)
+Ash:rolling 1d8
+(
+6
+)
+=6
+Raven Amazing:
+7  11
+ANIMAL HANDLING (1)
+Elote Silver Tongue:
+10
+ANIMAL HANDLING (1)
+Raven Amazing:
+15
+ANIMAL HANDLING (1)
+Marcus:
+9
+ANIMAL HANDLING (2)
+Mike:
+16
+ANIMAL HANDLING (-1)
+Sawman:
+19
+ANIMAL HANDLING (2)
+Gray:
+7
+ANIMAL HANDLING (1)
+6  3
+ANIMAL HANDLING (1)
+Raven Amazing:
+3
+ANIMAL HANDLING (1)
+Sevettijärvi:
+19.12
+INITIATIVE (1.12)
+Ash:
+14.14
+INITIATIVE (2.14)
+16.12
+INITIATIVE (1.12)
+Elote Silver Tongue:
+16.17
+INITIATIVE (4.17)
+6.12
+INITIATIVE (1.12)
+Sawman:
+10.09
+INITIATIVE (-0.91)
+Raven Amazing:
+11.18
+INITIATIVE (4.18)
+9.12
+INITIATIVE (1.12)
+Flabnatz (GM):rolling d20
+(
+14
+)
+=14
+rolling d20
+(
+1
+)
+=1
