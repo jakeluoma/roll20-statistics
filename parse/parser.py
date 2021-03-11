@@ -89,7 +89,7 @@ class Parser:
         initiative_part_one_regex = re.compile('([0-9]+)\.[0-9]+')
         initiative_part_two_regex = re.compile('INITIATIVE \((-?[0-9]+)\.[0-9]+\)')
 
-        with open(self.filename) as f:
+        with open(self.filename, encoding="utf-8") as f:
             while True:
                 line = f.readline()
                 if line == "":
@@ -106,6 +106,16 @@ class Parser:
                 match = name_regex.match(line)
                 if match:
                     name = match.group(1)
+                    # There are some exceptions which will falsely match this regex and should be skipped.
+                    # One is when you whisper to GM. It outputs text like "(To GM):".
+                    # Another is when there is a text description that has a bunch of text ending with a colon.
+                    # I arbitrarily say that any "name" longer than 10 words is actually a text description.
+                    # I'm sure some special player will break that assumption, but what can you do :)
+                    if name == "(To GM)":
+                        continue
+                    if len(name.split()) > 10:
+                        continue
+
                     self.current_state.name(name)
                     
                     self.debug_print("Matched name regex. Name is {}".format(name))

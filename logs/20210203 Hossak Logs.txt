@@ -1,0 +1,464 @@
+Ash:
+11
+INVESTIGATION (0)
+Kody M.:
+17
+DEXTERITY (3+1)
+Ash:
+17
+ATHLETICS (-1)
+Flabnatz (GM):As you open the book, you find that there is only one seam. As you pull the ends apart, a green shoot pops out. As you open the book further, the shoot rises and reveals a little sapling, and then a small tree. And when you bring the book fully open and set it on the table, it presents a tall and mighty tree.
+When you close the book, the tree retreats back in with a complex folding in on itself back into a small tree, into a sapling, to a tiny sprout, and then with a snap the book is closed again.
+And then it appears to wilt and die by falling over.
+Raven Amazing:
+24.18
+INITIATIVE (4.18)
+Ash:
+4.14
+INITIATIVE (2.14)
+Mike:
+19.12
+INITIATIVE (1.12)
+Elote Silver Tongue:
+20.17
+INITIATIVE (4.17)
+Anna Tinquil:
+13.12
+INITIATIVE (1.12)
+Raven Amazing:
+21.12
+INITIATIVE (1.12)
+True Strike
+Divination Cantrip
+Casting Time: 1 action
+Range: 30 feet
+Target: A target in range
+Components: S
+Duration: Concentration Up to 1 round
+You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target’s defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn’t ended.
+SPELL SAVE DC: 0
+Anna Tinquil:
+9  11
+SLEIGHT OF HAND (5)
+Sevettijärvi:
+8
+60 feet
+Ray of Frost (+5)
+Shield
+Abjuration 1
+Casting Time: 1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell
+Range: Self
+Target: Self
+Components: V, S
+Duration: 1 round
+An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.
+SPELL SAVE DC: 13
+Ash:
+8
+CONSTITUTION SAVE (4)
+Darkness
+Evocation 2
+Casting Time: 1 action
+Range: 60 feet
+Target: A point you choose within range
+Components: V, M (Bat fur and a drop of pitch or piece of coal)
+Duration: Concentration Up to 10 minutes
+Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it. If the point you choose is on an object you are holding or one that isn’t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness. If any of this spell’s area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.
+SPELL SAVE DC: 14
+Raven Amazing:
+19  3
+ATHLETICS (2)
+Sevettijärvi:
+14
+Touch
+Shocking Grasp (+5)
+9
+Touch
+Shocking Grasp (+5)
+Elote Silver Tongue:
+8
+ATHLETICS (0)
+Ash:
+18
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+12
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+7
+7
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+16
+Raven Amazing:
+14.18
+INITIATIVE (4.18)
+Sevettijärvi:
+21.12
+INITIATIVE (1.12)
+Ash:
+17.14
+INITIATIVE (2.14)
+Raven Amazing:
+2.12
+INITIATIVE (1.12)
+Kody M.:
+4.12
+INITIATIVE (1.12)
+16.17
+INITIATIVE (4.17)
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+2
+Cold
+60 feet
+Frostbite
+Kody M.:
+12
+30/120
+Hand Crossbow (+5)
+Elote Silver Tongue:
+6
+Piercing
+Raven Amazing:
+25 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+7
+Piercing
+Elote Silver Tongue:
+8
+150/600
+Longbow (+3)
+8
+Piercing
+Raven Amazing:
+4
+100/400
+Heavy Crossbow (+3)
+Sevettijärvi:
+6
+60 feet
+Ray of Frost (+5)
+Raven Amazing:
+9
+DEXTERITY SAVE (4)
+Sevettijärvi:
+3
+Cold
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+6
+Cold
+60 feet
+Frostbite
+Elote Silver Tongue:
+15
+30/120
+Hand Crossbow (+5)
+9
+Piercing
+Raven Amazing:
+18 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+10
+Piercing
+Elote Silver Tongue:
+17
+150/600
+Longbow (+3)
+6
+Piercing
+Sevettijärvi:
+8
+60 feet
+Ray of Frost (+5)
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+4
+Cold
+60 feet
+Frostbite
+Elote Silver Tongue:
+11
+30/120
+Hand Crossbow (+5)
+Raven Amazing:
+15 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+10
+Piercing
+Elote Silver Tongue:
+8
+150/600
+Longbow (+3)
+Raven Amazing:
+13
+100/400
+Heavy Crossbow (+3)
+3
+Piercing
+Sevettijärvi:
+22
+60 feet
+Ray of Frost (+5)
+2
+Cold
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+2
+Cold
+60 feet
+Frostbite
+Elote Silver Tongue:
+11
+30/120
+Hand Crossbow (+5)
+Raven Amazing:
+21 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+5
+Piercing
+Sevettijärvi:
+7
+HIT DICE (D6+2)
+Ash:
+3
+HIT DICE (D6+2)
+rolling 1d6
+(
+2
+)
+=2
+6
+HIT DICE (D6+2)
+Elote Silver Tongue:
+9
+HIT DICE (D8+2)
+15
+HISTORY (2)
+Raven Amazing:
+10
+HIT DICE (D10+2)
+Elote Silver Tongue:
+13
+ARCANA (5)
+Sevettijärvi:
+14
+ATHLETICS (4)
+(To GM): minor illusion of a blank plane above the book
+(To GM): so he can't see below the plane
+(To GM):
+Minor Illusion
+Illusion Cantrip
+Casting Time: 1 action
+Range: 30 feet
+Target: See text
+Components: S, M (A bit of fleece)
+Duration: 1 minute
+You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again. If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends. If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it. If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
+SPELL SAVE DC: 14
+Ash:
+13
+ARCANA (0)
+11
+STEALTH (4)
+Elote Silver Tongue:
+11
+CHARISMA SAVE (4)
+Ash:
+20.14
+INITIATIVE (2.14)
+Sevettijärvi:
+12.12
+INITIATIVE (1.12)
+Raven Amazing:
+7.18
+INITIATIVE (4.18)
+10.12
+INITIATIVE (1.12)
+Elote Silver Tongue:
+16.17
+INITIATIVE (4.17)
+20.12
+INITIATIVE (1.12)
+Initiative
+Grick
+Initiative: 14.14
+Initiative
+Grick
+Initiative: 11.14
+Ash:
+DC14
+Intelligence Save
+You craft an illusion that takes root in the mind of a creature that you can see within range. The target must make an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other visible phenomenon of your choice that is no larger than a 10-foot cube and that is perceivable only to the target for the duration. This spell has no effect on undead or constructs.
+The phantasm includes sound, temperature, and other stimuli, also evident only to the creature.
+The target can use its action to examine the phantasm with an Intelligence (Investigation) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
+While a target is affected by the spell, the target treats the phantasm as if it were real. The target rationalizes any illogical outcomes from interacting with the phantasm. For example, a target attempting to walk across a phantasmal bridge that spans a chasm falls once it steps onto the bridge. If the target survives the fall, it still believes that the bridge exists and comes up with some other explanation for its fall - it was pushed, it slipped, or a strong wind might have knocked it off.
+An affected target is so convinced of the phantasm's reality that it can even take damage from the illusion. A phantasm created to appear as a creature can attack the target. Similarly, a phantasm created to appear as fire, a pool of acid, or lava can burn the target. Each round on your turn, the phantasm can deal 1d6 psychic damage to the target if it is in the phantasm's area or within 5 feet of the phantasm, provided that the illusion is of a creature or hazard that could logically deal damage, such as by attacking. The target perceives the damage as a type appropriate to the illusion.
+5
+Psychic
+60 feet
+Phantasmal Force
+Elote Silver Tongue:
+DC12
+Wisdom Save
+4
+Psychic
+60 feet
+Vicious Mockery
+20
+Scimitar (+2)
+4
+Slashing
+Sevettijärvi:
+Breath Weapon
+Racial: Dragonborn
+You can use your action to exhale destructive energy. Your blue draconic ancestry means this exhalation is a 5 by 30 ft. line dealing lightning damage.
+When you use your breath weapon, each creature in the area of the exhalation must make a Dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.
+After you use your breath weapon, you can't use it again until you complete a short or long rest.
+rolling 1d6
+(
+5
+)
+=5
+Raven Amazing:
+20
+100/400
+Heavy Crossbow (+3)
+10
+Piercing
+13 + 2  25 + 2
+Rapier (+6)
+7
+Piercing
+15.18
+INITIATIVE (4.18)
+Sevettijärvi:
+10
+Touch
+Shocking Grasp (+5)
+Elote Silver Tongue:
+19
+Glowing Shortsword (+5)
+Raven Amazing:
+11.12
+INITIATIVE (1.12)
+Ash:
+9
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+18
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+Elote Silver Tongue:
+8
+150/600
+Longbow (+3)
+Ash:
+19.14
+INITIATIVE (2.14)
+Elote Silver Tongue:
+7
+Piercing
+Ash:
+14
+Sevettijärvi:
+3.12
+INITIATIVE (1.12)
+Raven Amazing:
+10
+100/400
+Heavy Crossbow (+3)
+Elote Silver Tongue:
+21.17
+INITIATIVE (4.17)
+19.12
+INITIATIVE (1.12)
+19
+Glowing Shortsword (+5)
+5
+Piercing
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+1
+Cold
+60 feet
+Frostbite
+Elote Silver Tongue:
+15
+150/600
+Longbow (+3)
+8
+Piercing
+Raven Amazing:
+19 + 2  20 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+8
+Piercing
+Elote Silver Tongue:
+4  2
+SLEIGHT OF HAND (1)
+Raven Amazing:
+18  12
+ATHLETICS (2)
+2  19
+SLEIGHT OF HAND (1)
+Sevettijärvi:
+6
+INVESTIGATION (0)
+Flabnatz (GM):Don’t forget to make enough loaves! Remember, Jamie-Lynn comes at dawn and takes half of our loaves, plus half a loaf more. Then comes Thomson at noon for half of the remaining loaves, plus half a loaf more. And at dusk will be Gwennth, for half of the remaining loaves, plus half a loaf more. That should be all of the bread needed for the day! Best, Kendrik

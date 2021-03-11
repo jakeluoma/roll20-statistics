@@ -58,9 +58,10 @@ class Statistics:
         if self.filename == "" or not self.filename.lower().endswith(".csv"):
             return
 
-        with open(self.filename, 'r') as f:
+        with open(self.filename, 'r', encoding="utf-8") as f:
             readerObj = csv.reader(f) # Assumes the file was made in notepad, not excel. If the csv was made in Excel, it adds a BOM at the front that messes up the first player name.
             
+            names_handled = []
             for row in readerObj:
                 name = row[0]
                 self.player_names.append(name)
@@ -68,8 +69,14 @@ class Statistics:
                 length = len(row)
                 for i in range(1, length):
                     self.player_names_to_rolls[name] = self.player_names_to_rolls[name] + (self.get_rolls(row[i]))
+                    names_handled.append(row[i])
 
         # should probably have a check to make sure all character names are accounted for
+        names_with_rolls = self.get_names()
+        for name in names_with_rolls:
+            if not name in names_handled:
+                print("Name '{}' is not associated with a player!".format(name))
+                print("These rolls are unaccounted for: {}".format(self.get_rolls(name)))
 
         for name in self.player_names:
             self.player_names_to_averages[name] = self.average(self.player_names_to_rolls[name])

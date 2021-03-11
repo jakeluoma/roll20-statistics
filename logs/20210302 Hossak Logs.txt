@@ -1,0 +1,641 @@
+Mike:
+5.12
+INITIATIVE (1.12)
+Ash:
+8.13
+INITIATIVE (1.13)
+11.14
+INITIATIVE (2.14)
+Anna Tinquil:
+17.12
+INITIATIVE (1.12)
+Raven Amazing:
+7.18
+INITIATIVE (4.18)
+Anna Tinquil:
+15.17
+INITIATIVE (4.17)
+19  17
+150/600
+Longbow (+3)
+8
+Piercing
+Raven Amazing:
+10
+WISDOM SAVE (1)
+Mike:
+2
+WISDOM SAVE (-1)
+Ash:
+3
+WISDOM SAVE (0)
+Mike:
+4
+WISDOM SAVE (-1)
+Ash:
+18
+WISDOM SAVE (0)
+Raven Amazing:
+16
+WISDOM SAVE (1)
+Gray:
+10  3
+WISDOM SAVE (1)
+Anna Tinquil:
+21  2
+WISDOM SAVE (1)
+Elote Silver Tongue:
+16
+WISDOM SAVE (3)
+DC12
+Constitution Save
+4
+Thunder
+Higher Level Cast
+13
+Thunder
+Self (15-foot cube)
+Thunderwave
+Gray:
+13
+WISDOM SAVE (1)
+Raven Amazing:
+17 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+12
+Piercing
+21 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+10
+Piercing
+Rage
+Class: Barbarian
+In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
+While raging, you gain the following benefits if you aren’t wearing heavy armor:
+-You have advantage on Strength checks and Strength saving throws.
+-When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
+-You have resistance to bludgeoning, piercing, and slashing damage.
+If you are able to cast spells, you can’t cast them or concentrate on them while raging.
+Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
+Mike:
+7
+WISDOM SAVE (-1)
+Elote Silver Tongue:
+16  13
+CONSTITUTION SAVE (2)
+7
+150/600
+Longbow (+3)
+26
+Hit Points of Creatures
+90 feet
+Sleep
+Ash:
+18
+PERSUASION (6)
+Anna Tinquil:
+59
+DECEPTION (58)
+64
+DECEPTION (58)
+Ash:
+13
+STEALTH (1)
+Gray:
+5  22
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+4
+Piercing
+9
+Sneak Attack (2d6)
+Gray
+Raven Amazing:
+13 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+rolling d6
+(
+1
+)
+=1
+Sevettijärvi:
+16
+WISDOM SAVE (-1)
+rolling 1d10
+(
+8
+)
+=8
+Gray:
+3
+CONSTITUTION SAVE (-1)
+Anna Tinquil:
+7
+150/600
+Longbow (+3)
+rolling d6
+(
+6
+)
+=6
+13
+Glowing Shortsword (+5)
+Ash:
+10  18
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+12
+rolling 1d8
+(
+6
+)
+=6
+25  21
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+9
+Anna Tinquil:
+7
+INSIGHT (5)
+5
+INSIGHT (3)
+Ash:
+7
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+Raven Amazing:
+15 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+Sevettijärvi:
+3
+Force
+120 feet
+Magic Missile
+6
+60 feet
+Ray of Frost (+5)
+Flabnatz (GM):
+7
+Cold
+Anna Tinquil:
+11
+150/600
+Longbow (+3)
+13
+Glowing Shortsword (+5)
+Ash:
+16  13
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+15
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+Gray:
+6
+STEALTH (1)
+10
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+Raven Amazing:
+23 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+2
+Rage
+7
+Piercing
+Sevettijärvi:
+5
+Force
+120 feet
+Magic Missile
+Breath Weapon
+Racial: Dragonborn
+You can use your action to exhale destructive energy. Your blue draconic ancestry means this exhalation is a 5 by 30 ft. line dealing lightning damage.
+When you use your breath weapon, each creature in the area of the exhalation must make a Dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.
+After you use your breath weapon, you can't use it again until you complete a short or long rest.
+rolling 1d6
+(
+3
+)
+=3
+rolling 1d6
+(
+5
+)
+=5
+Anna Tinquil:
+6
+150/600
+Longbow (+3)
+15
+Glowing Shortsword (+5)
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+5
+Cold
+60 feet
+Frostbite
+18
+INVESTIGATION (0)
+Raven Amazing:
+16
+HISTORY (3)
+Sevettijärvi:
+5
+INVESTIGATION (0)
+5
+INVESTIGATION (0)
+Ash:
+Enhance Ability
+Transmutation 2
+Casting Time: 1 action
+Range: Touch
+Target: A creature
+Components: V, S, M (Fur or a feather from a beast)
+Duration: Concentration Up to 1 hour
+You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends. Bear’s Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends. Bull’s Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles. Cat’s Grace. The target has advantage on Dexterity checks. It also doesn’t take damage from falling 20 feet or less if it isn’t incapacitated. Eagle’s Splendor. The target has advantage on Charisma checks. Fox’s Cunning. The target has advantage on Intelligence checks. Owl’s Wisdom. The target has advantage on Wisdom checks.
+At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+21  25
+INVESTIGATION (6)
+19  5
+ARCANA (2)
+Elote Silver Tongue:
+5  10
+ATHLETICS (1)
+bull dinky
+woopsie
+Flabnatz (GM):woopsie
+Elote Silver Tongue:sweet
+Raven Amazing:
+8
+PERCEPTION (4)
+17
+PERCEPTION (4)
+Ash:
+4
+PERCEPTION (0)
+Gray:
+16
+PERCEPTION (1)
+Sevettijärvi:
+21
+PERCEPTION (8)
+10
+CONSTITUTION SAVE (4)
+18
+CONSTITUTION SAVE (4)
+Raven Amazing:
+20
+CONSTITUTION SAVE (5)
+Ash:
+21  6
+CONSTITUTION SAVE (4)
+Gray:
+14
+CONSTITUTION SAVE (-1)
+17
+CONSTITUTION SAVE (-1)
+Anna Tinquil:
+5
+CONSTITUTION SAVE (-1)
+Mike:
+18.12
+INITIATIVE (1.12)
+Raven Amazing:
+21.18
+INITIATIVE (4.18)
+Mike:
+9.08
+INITIATIVE (-0.92)
+Ash:
+5.14
+INITIATIVE (2.14)
+Gray:
+6.13
+INITIATIVE (1.13)
+Anna Tinquil:
+6.17
+INITIATIVE (4.17)
+14.12
+INITIATIVE (1.12)
+Raven Amazing:
+18 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+10
+Piercing
+Mike:
+10
+120 feet
+Chill Touch (+5)
+FOR DESCRIPTION ONLY
+Chill Touch
+Necromancy Cantrip
+Casting Time: 1 action
+Range: 120 feet
+Target: The space of a creature within range
+Components: V, S
+Duration: 1 round
+You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can’t regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn. This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+SPELL SAVE DC: 13
+Anna Tinquil:
+12
+150/600
+Longbow (+3)
+3
+Piercing
+Mike:
+DC12
+half damage
+Dexterity Save
+2
+Dueling Style
+5
+Fire
+Breath Weapon
+Raven Amazing:
+8
+WISDOM SAVE (1)
+Mike:
+17  11
+WISDOM SAVE (2)
+Raven Amazing:
+21
+WISDOM SAVE (1)
+Mike:
+3  20
+CONSTITUTION SAVE (2)
+19
+20/60
+Last Dagger (+6)
+2
+Dueling Style
+6
+Piercing
+Anna Tinquil:
+13
+30/120
+Hand Crossbow (+5)
+Elote Silver Tongue:
+7
+Piercing
+Gray:
+14
+STEALTH (1)
+15
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+3
+Piercing
+4
+Sneak Attack (2d6)
+Gray
+19
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+11
+Raven Amazing:
+14 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+2
+Rage
+8
+Piercing
+Mike:
+2
+Force
+120 feet
+Magic Missile
+Anna Tinquil:
+8
+150/600
+Longbow (+3)
+Mike:
+None Spell Attack.
+2
+Dueling Style
+5
+Thunder
+Self
+Thunderous Smite
+23
+20/60
+Last Dagger (+6)
+2
+Dueling Style
+5
+Piercing
+FOR DESCRIPTION ONLY
+Thunderous Smite
+Evocation 1
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: Concentration 1 minute
+The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
+SPELL SAVE DC: 13
+14  20
+CONSTITUTION SAVE (2)
+Anna Tinquil:
+15
+30/120
+Hand Crossbow (+5)
+Elote Silver Tongue:
+6
+Piercing
+Gray:
+14  11
+CONSTITUTION SAVE (4)
+21
+STEALTH (1)
+8  23
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+2 + 4
+Piercing
+10
+Sneak Attack (2d6)
+Gray
+Ash:
+21  23
+120 feet
+Chill Touch (+6)
+3
+Necrotic
+Raven Amazing:
+18 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+2
+Rage
+7
+Piercing
+Mike:
+6
+30 feet
+Witch Bolt (+5)
+Anna Tinquil:
+7
+150/600
+Longbow (+3)
+Mike:
+20
+20/60
+Last Dagger (+6)
+15
+Radiant/Dueling Style
+5
+Piercing
+Raven Amazing:
+14  21
+CONSTITUTION SAVE (5)
+25  15
+CONSTITUTION SAVE (5)
+25 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+2
+Rage
+11
+Piercing
+Anna Tinquil:
+17
+30/120
+Hand Crossbow (+5)
+Elote Silver Tongue:
+9
+Piercing
+8
+HIT DICE (D8+2)
+Ash:
+0
+HIT DICE (D8+-1)
+Raven Amazing:
+9
+HIT DICE (D10+2)
+Elote Silver Tongue:rolling d6
+(
+2
+)
+=2
+Mike:
+8
+HIT DICE (D6+2)
+Gray:
+0
+HIT DICE (D8+-1)
+Mike:
+3
+HIT DICE (D6+2)
+Gray:
+4
+HIT DICE (D8+-1)
+Mike:
+6
+HIT DICE (D6+2)
+Raven Amazing:
+10
+HIT DICE (D10+2)
+Mike:rolling 1d6
+(
+5
+)
+=5
+Raven Amazing:
+3
+HIT DICE (D10+2)
+Ash:
+4
+HIT DICE (D6+2)
+Mike:
+7
+HIT DICE (D10+2)
+8
+HIT DICE (D10+2)
+Ash:rolling 1d6
+(
+4
+)
+=4
+rolling 1d6
+(
+5
+)
+=5
+Raven Amazing:rolling d6
+(
+4
+)
+=4
+17
+DEXTERITY SAVE (4)
+Sevettijärvi:
+2  15
+DEXTERITY SAVE (1)
+Raven Amazing:
+5
+DEXTERITY SAVE (4)
+Ash:
+8  18
+DEXTERITY SAVE (2)
+Elote Silver Tongue:
+DEXTERITY SAVE (5)
+Gray:
+14  8
+DEXTERITY SAVE (3)
+Varnōk Todorim:
+0  1
+DEXTERITY SAVE (-1)
+Anna Tinquil:
+11
+DEXTERITY SAVE (1)

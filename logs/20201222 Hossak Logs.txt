@@ -1,0 +1,759 @@
+Kody M.:
+3
+PERCEPTION (2)
+Ash:
+4
+PERCEPTION (0)
+Mike:
+4
+PERCEPTION (-1)
+Kody M.:
+19
+PERCEPTION (2)
+1
+PERCEPTION (0)
+Ash:
+15
+INSIGHT (2)
+Elote Silver Tongue:
+6
+INVESTIGATION (2)
+Ash:
+5
+INVESTIGATION (0)
+Elote Silver Tongue:
+10  9
+INVESTIGATION (2)
+Ash:rolling 1d4
+(
+2
+)
+=2
+(To GM): test test
+Elote Silver Tongue:
+15  24
+ARCANA (5)
+9
+MEDICINE (1)
+Ash:rolling 1d8
+(
+6
+)
+=6
+Raven Amazing:
+7  11
+ANIMAL HANDLING (1)
+Elote Silver Tongue:
+10
+ANIMAL HANDLING (1)
+Raven Amazing:
+15
+ANIMAL HANDLING (1)
+Marcus:
+9
+ANIMAL HANDLING (2)
+Mike:
+16
+ANIMAL HANDLING (-1)
+Sawman:
+19
+ANIMAL HANDLING (2)
+Gray:
+7
+ANIMAL HANDLING (1)
+6  3
+ANIMAL HANDLING (1)
+Raven Amazing:
+3
+ANIMAL HANDLING (1)
+Sevettijärvi:
+19.12
+INITIATIVE (1.12)
+Ash:
+14.14
+INITIATIVE (2.14)
+16.12
+INITIATIVE (1.12)
+Elote Silver Tongue:
+16.17
+INITIATIVE (4.17)
+6.12
+INITIATIVE (1.12)
+Sawman:
+10.09
+INITIATIVE (-0.91)
+Raven Amazing:
+11.18
+INITIATIVE (4.18)
+9.12
+INITIATIVE (1.12)
+Flabnatz (GM):rolling d20
+(
+14
+)
+=14
+rolling d20
+(
+1
+)
+=1
+Sevettijärvi:
+16
+ANIMAL HANDLING (-1)
+Elote Silver Tongue:
+DC12
+Wisdom Save
+3
+Psychic
+60 feet
+Vicious Mockery
+Flabnatz (GM):rolling 5d8
+(
+6
++
+6
++
+6
++
+6
++
+8
+)
+=32
+rolling 5d8
+(
+6
++
+4
++
+7
++
+8
++
+5
+)
+=30
+Sevettijärvi:
+24
+60 feet
+Ray of Frost (+5)
+12
+60 feet
+Ray of Frost (+5)
+2
+Cold
+Elote Silver Tongue:
+2
+ANIMAL HANDLING (1)
+DC12
+Constitution Save
+1
+Thunder
+Higher Level Cast
+11
+Thunder
+Self (15-foot cube)
+Thunderwave
+Flabnatz (GM):rolling 1d20 + 4
+(
+11
+)+4
+=15
+rolling 1d20 + 5
+(
+6
+)+5
+=11
+rolling 1d20 + 4
+(
+5
+)+4
+=9
+rolling 1d20 + 4
+(
+10
+)+4
+=14
+Elote Silver Tongue:rolling d6
+(
+6
+)
+=6
+Sevettijärvi:
+9
+CONSTITUTION SAVE (4)
+Flabnatz (GM):rolling d4
+(
+1
+)
+=1
+rolling 1d20 + 4
+(
+12
+)+4
+=16
+rolling 1d20 + 5
+(
+4
+)+5
+=9
+rolling 1d20 + 4
+(
+14
+)+4
+=18
+rolling 1d20 + 4
+(
+1
+)+4
+=5
+Elote Silver Tongue:rolling d4
+(
+1
+)
+=1
+Sevettijärvi:
+21
+CONSTITUTION SAVE (4)
+Elote Silver Tongue:
+18
+CONSTITUTION SAVE (2)
+Sevettijärvi:
+8
+CONSTITUTION SAVE (4)
+Elote Silver Tongue:
+4
+CONSTITUTION SAVE (2)
+7
+Healing
+Higher Level Cast
+4
+Healing
+Touch
+Cure Wounds
+Gray:
+21  12
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+4
+Piercing
+4
+Sneak Attack (1d6)
+Gray
+Elote Silver Tongue:
+8
+Rapier (+5)
+Flabnatz (GM):rolling 1d20 + 4
+(
+8
+)+4
+=12
+rolling 1d20 + 4
+(
+14
+)+4
+=18
+rolling 1d20 + 5
+(
+4
+)+5
+=9
+rolling 1d20 + 4
+(
+20
+)+4
+=24
+rolling 1d20 + 4
+(
+14
+)+4
+=18
+Ash:
+13
+CONSTITUTION SAVE (-1)
+13
+DEXTERITY SAVE (2)
+Raven Amazing:
+8
+DEXTERITY SAVE (4)
+Sawman:
+4
+DEXTERITY SAVE (-1)
+Raven Amazing:
+6
+DEXTERITY SAVE (3)
+Marcus:
+21
+DEXTERITY SAVE (1)
+Ash:
+15
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+16
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+19
+11
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+15
+Sawman:
+18
+Scimitar (+4)
+20
+Scimitar (+4)
+7
+Slashing
+4
+Slashing
+Raven Amazing:
+6
+100/400
+Heavy Crossbow (+3)
+Marcus:
+15
+Scimitar (+2)
+1
+Slashing
+Raven Amazing:
+26 + 2
+150/600
+Longbow (+6)
+10 + 4
+Piercing
+22 + 2
+150/600
+Longbow (+6)
+7
+Piercing
+Kody M.:
+20
+Rapier (+5)
+6
+Piercing
+Flabnatz (GM):rolling 1d20 + 4
+(
+18
+)+4
+=22
+rolling 1d20 + 5
+(
+16
+)+5
+=21
+rolling 1d20 + 4
+(
+13
+)+4
+=17
+Kody M.:rolling d6
+(
+2
+)
+=2
+Flabnatz (GM):rolling 1d20 + 4
+(
+18
+)+4
+=22
+Kody M.:
+16
+CONSTITUTION SAVE (2)
+Sawman:
+17
+CONSTITUTION SAVE (3)
+Raven Amazing:
+13
+CONSTITUTION SAVE (4)
+Marcus:
+16
+CONSTITUTION SAVE (-1)
+Sevettijärvi:
+10
+DEATH SAVE (0)
+Ash:
+15
+Scimitar (+3)
+Sneak Attack
+4
+Slashing
+2
+Sneak Attack (1d6)
+Gray
+Flabnatz (GM):rolling 1d20 + 4
+(
+5
+)+4
+=9
+rolling 1d20 + 5
+(
+16
+)+5
+=21
+rolling 1d20 + 4
+(
+17
+)+4
+=21
+Ash:
+11
+CONSTITUTION SAVE (4)
+21
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+8
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+14
+Raven Amazing:
+29 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+7 + 1
+Piercing
+rolling d10
+(
+8
+)
+=8
+Sawman:
+15
+Scimitar (+4)
+8
+Slashing
+19
+Scimitar (+4)
+4
+Raven Amazing:
+6
+20/60
+Handaxe (+3)
+Elote Silver Tongue:rolling 2d4+2
+(
+3
++
+4
+)+2
+=9
+Flabnatz (GM):rolling 1d20 + 4
+(
+15
+)+4
+=19
+rolling 1d20 + 5
+(
+3
+)+5
+=8
+rolling 1d20 + 4
+(
+6
+)+4
+=10
+Sawman:
+12
+CONSTITUTION SAVE (3)
+Sevettijärvi:
+4
+Force
+120 feet
+Magic Missile
+Elote Silver Tongue:
+9
+DEATH SAVE (0)
+Gray:
+13
+Scimitar (+3)
+Sneak Attack
+7
+Slashing
+Flabnatz (GM):rolling 1d20 + 4
+(
+19
+)+4
+=23
+rolling 1d20 + 5
+(
+17
+)+5
+=22
+rolling 1d20 + 4
+(
+14
+)+4
+=18
+Ash:
+7
+CONSTITUTION SAVE (4)
+Gray:
+16
+CONSTITUTION SAVE (-1)
+Elote Silver Tongue:
+16
+CONSTITUTION SAVE (-1)
+Ash:
+13
+CONSTITUTION SAVE (4)
+18
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+11
+Raven Amazing:
+10 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+10
+Piercing
+Sawman:
+12
+DEATH SAVE (0)
+Raven Amazing:
+13
+100/400
+Heavy Crossbow (+3)
+6
+Piercing
+Let's Pin It Down
+Background: Fisher/Hunter
+As a Bonus Action, secure a length of rope to the end of a barbed crossbow bolt so that it grapples the target on hit in addition to dealing damage.
+
+As an Action, yank on the rope connected to a grappled target to deal 1d4 Piercing and make the grappled creature make a DC11 STR Save or be pulled 10ft toward you.
+
+A grappled creature may use an action to attack the rope (DC=8, HP=5 Slashing) or pull the barbed bolt out (DC12 CON Save or take 2d4 Piercing, half-damage on save).
+Marcus:rolling 2d4+2
+(
+4
++
+4
+)+2
+=10
+rolling 4d4+2
+(
+3
++
+3
++
+3
++
+4
+)+2
+=15
+Flabnatz (GM):rolling 1d20 + 4
+(
+6
+)+4
+=10
+rolling 1d20 + 5
+(
+8
+)+5
+=13
+Sevettijärvi:
+10
+30 feet
+Witch Bolt (+5)
+4
+Force
+120 feet
+Magic Missile
+Marcus:
+23
+Glowing Shortsword (+5)
+7
+Piercing
+Gray:
+18
+Scimitar (+3)
+Sneak Attack
+2
+Slashing
+Flabnatz (GM):rolling 1d20 + 4
+(
+6
+)+4
+=10
+rolling 1d20 + 5
+(
+19
+)+5
+=24
+Marcus:
+17
+CONSTITUTION SAVE (-1)
+Gray:
+15
+80/320
+Light Crossbow (+4)
+7
+Piercing
+Raven Amazing:
+20 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+9
+Piercing
+Sawman:
+19
+DEATH SAVE (0)
+Raven Amazing:
+15
+STRENGTH SAVE (3)
+22
+100/400
+Heavy Crossbow (+3)
+9
+Piercing
+Marcus:
+5
+Scimitar (+2)
+Flabnatz (GM):rolling 1d20 + 5
+(
+10
+)+5
+=15
+Marcus:
+14
+CONSTITUTION SAVE (2)
+Mike:
+3
+Force
+120 feet
+Magic Missile
+Elote Silver Tongue:
+12
+DEATH SAVE (0)
+Gray:
+14
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+3
+Piercing
+4
+Sneak Attack (1d6)
+Gray
+Flabnatz (GM):rolling 1d20 + 5
+(
+7
+)+5
+=12
+Gray:
+21
+80/320
+Light Crossbow (+4)
+5
+Piercing
+Raven Amazing:
+22 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+5
+Piercing
+Sawman:
+1
+DEATH SAVE (0)
+rolling 2d4+2
+(
+3
++
+4
+)+2
+=9
+Marcus:
+9
+Scimitar (+2)
+Flabnatz (GM):rolling 1d20 + 5
+(
+6
+)+5
+=11
+Sawman:
+14
+60 feet
+Ray of Frost (+5)
+8
+Cold
+Marcus:
+7
+DEATH SAVE (0)
+Gray:
+2
+STEALTH (1)
+13
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+7
+Piercing
+6
+Sneak Attack (1d6)
+Gray
+Sawman:
+Bonus Action Healing
+9
+Healing
+Self
+Second Wind
+Flabnatz (GM):place your tokens
+roll perception\
+Marcus:
+5
+PERCEPTION (0)
+Gray:
+6
+PERCEPTION (0)
+Elote Silver Tongue:
+7
+PERCEPTION (2)
+Ash:
+6
+PERCEPTION (1)
+Raven Amazing:
+10
+PERCEPTION (3)
+Sevettijärvi:
+11
+PERCEPTION (-1)
+Raven Amazing:
+9
+PERCEPTION (-1)
+Sawman:
+4
+PERCEPTION (0)
+Elote Silver Tongue:jibbers h crabst
+Flabnatz (GM):am I still garbled

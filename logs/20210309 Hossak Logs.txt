@@ -1,0 +1,948 @@
+Raven Amazing:
+11.18
+INITIATIVE (4.18)
+Jake:
+8.14
+INITIATIVE (2.14)
+14.13
+INITIATIVE (1.13)
+Mike:
+4.12
+INITIATIVE (1.12)
+Kody M.:
+9.17
+INITIATIVE (4.17)
+Mike:
+2.08
+INITIATIVE (-0.92)
+Kody M.:
+14.12
+INITIATIVE (1.12)
+Gray:
+16
+STRENGTH SAVE (-1)
+Ash:
+18
+STRENGTH SAVE (-1)
+Sevettijärvi:
+13
+STRENGTH SAVE (2)
+Varnōk Todorim:
+16  17
+STRENGTH SAVE (4)
+Gray:
+14
+DEATH SAVE (0)
+Anna Tinquil:
+20
+Scimitar (+2)
+2
+Slashing
+Raven Amazing:
+19 + 2
+Rapier (+7)
+2
+Rage
+7
+Piercing
+Elote Silver Tongue:
+12  6
+Glowing Shortsword (+5)
+Ash:
+DC14
+Intelligence Save
+You craft an illusion that takes root in the mind of a creature that you can see within range. The target must make an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other visible phenomenon of your choice that is no larger than a 10-foot cube and that is perceivable only to the target for the duration. This spell has no effect on undead or constructs.
+The phantasm includes sound, temperature, and other stimuli, also evident only to the creature.
+The target can use its action to examine the phantasm with an Intelligence (Investigation) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
+While a target is affected by the spell, the target treats the phantasm as if it were real. The target rationalizes any illogical outcomes from interacting with the phantasm. For example, a target attempting to walk across a phantasmal bridge that spans a chasm falls once it steps onto the bridge. If the target survives the fall, it still believes that the bridge exists and comes up with some other explanation for its fall - it was pushed, it slipped, or a strong wind might have knocked it off.
+An affected target is so convinced of the phantasm's reality that it can even take damage from the illusion. A phantasm created to appear as a creature can attack the target. Similarly, a phantasm created to appear as fire, a pool of acid, or lava can burn the target. Each round on your turn, the phantasm can deal 1d6 psychic damage to the target if it is in the phantasm's area or within 5 feet of the phantasm, provided that the illusion is of a creature or hazard that could logically deal damage, such as by attacking. The target perceives the damage as a type appropriate to the illusion.
+6
+Psychic
+60 feet
+Phantasmal Force
+Mike:
+16
+Touch
+Shocking Grasp (+5)
+1
+Lightning
+16
+20/60
+Last Dagger (+6)
+2
+Dueling Style
+5
+Piercing
+Gray:
+8
+DEATH SAVE (0)
+Elote Silver Tongue:
+7
+150/600
+Longbow (+3)
+Raven Amazing:
+24 + 2
+150/600
+Longbow (+7)
+19 + 2
+Rapier (+7)
+8
+Piercing
+Elote Silver Tongue:
+5
+Healing
+60 feet
+Healing Word
+Ash:rolling 1d6
+(
+6
+)
+=6
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+1
+Cold
+60 feet
+Frostbite
+Mike:
+12
+30 feet
+Witch Bolt (+5)
+17
+20/60
+Last Dagger (+6)
+2
+Dueling Style
+6
+Piercing
+Raven Amazing:
+16  17
+STRENGTH SAVE (3)
+25 + 2
+Rapier (+7)
+9
+Piercing
+Gray:
+21
+Scimitar (+3)
+Sneak Attack
+15
+20/60
+Dagger (+3)
+Sneak Attack
+Sneak Attack
+Class: Rogue
+Once per turn, you can deal an extra 1d6 damage to one creature you hit with an Attack if you have advantage on the Attack roll. The Attack must use a Finesse or a ranged weapon.
+
+You don't need advantage on the Attack roll if another enemy of the target is within 5 feet of it, that enemy isn't Incapacitated, and you don't have disadvantage on the Attack roll.
+4
+Slashing
+6
+Sneak Attack (2d6)
+Gray
+5
+Piercing
+Gray:
+3
+Sneak Attack (2d6)
+Gray
+Elote Silver Tongue:
+7
+150/600
+Longbow (+3)
+Raven Amazing:
+20 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+12
+Piercing
+17 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+5
+Piercing
+rolling d10
+(
+7
+)
+=7
+Elote Silver Tongue:rolling d20
+(
+2
+)
+=2
+Gray:rolling 1d6
+(
+6
+)
+=6
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+1
+Cold
+60 feet
+Frostbite
+Mike:
+25
+60 feet
+Ray of Frost (+5)
+4 + 7
+Cold
+Curse Of The Sea
+Class: Sea
+When you choose this origin at 1st level, you learn the secret of infusing your spells with a watery curse.
+
+When you hit a creature with a cantrip’s attack or when a creature fails a saving throw against your cantrip, you can curse the target until the end of your next turn or until you curse a different creature with this feature.
+
+Once per turn when you cast a spell, you can trigger the curse if that spell deals cold or lightning damage to the cursed target or forces it to move. Doing so subjects the target to the appropriate additional effect below, and then the curse ends if the spell isn’t a cantrip (you choose the effect to use if more than one effect applies):
+
+Cold Damage. If the affected target takes cold damage from your spell, the target’s speed is also reduced by 15 feet until the end of your next turn. If the spell already reduces the target’s speed, use whichever reduction is greater.
+
+Lightning Damage. If the affected target takes lightning damage from your spell, the target takes additional lightning damage equal to your Charisma modifier.
+
+Forced Movement. If the target is moved by your spell, increase the distance it is moved by 15 feet.
+DC12
+half damage
+Dexterity Save
+2
+Dueling Style
+9
+Fire
+Breath Weapon
+4.08
+INITIATIVE (-0.92)
+Raven Amazing:
+9.18
+INITIATIVE (4.18)
+Mike:
+9.12
+INITIATIVE (1.12)
+Elote Silver Tongue:
+24.17
+INITIATIVE (4.17)
+Ash:
+18.14
+INITIATIVE (2.14)
+Anna Tinquil:
+20.12
+INITIATIVE (1.12)
+Gray:
+14.13
+INITIATIVE (1.13)
+17.13
+INITIATIVE (1.13)
+Anna Tinquil:rolling d20
+(
+11
+)
+=11
+rolling d12
+(
+10
+)
+=10
+rolling d12
+(
+1
+)
+=1
+12
+150/600
+Longbow (+3)
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+3
+Cold
+60 feet
+Frostbite
+15
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+5
+Piercing
+Anna Tinquil:rolling d12
+(
+12
+)
+=12
+Ash:
+DC14
+Intelligence Save
+You craft an illusion that takes root in the mind of a creature that you can see within range. The target must make an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other visible phenomenon of your choice that is no larger than a 10-foot cube and that is perceivable only to the target for the duration. This spell has no effect on undead or constructs.
+The phantasm includes sound, temperature, and other stimuli, also evident only to the creature.
+The target can use its action to examine the phantasm with an Intelligence (Investigation) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
+While a target is affected by the spell, the target treats the phantasm as if it were real. The target rationalizes any illogical outcomes from interacting with the phantasm. For example, a target attempting to walk across a phantasmal bridge that spans a chasm falls once it steps onto the bridge. If the target survives the fall, it still believes that the bridge exists and comes up with some other explanation for its fall - it was pushed, it slipped, or a strong wind might have knocked it off.
+An affected target is so convinced of the phantasm's reality that it can even take damage from the illusion. A phantasm created to appear as a creature can attack the target. Similarly, a phantasm created to appear as fire, a pool of acid, or lava can burn the target. Each round on your turn, the phantasm can deal 1d6 psychic damage to the target if it is in the phantasm's area or within 5 feet of the phantasm, provided that the illusion is of a creature or hazard that could logically deal damage, such as by attacking. The target perceives the damage as a type appropriate to the illusion.
+3
+Psychic
+60 feet
+Phantasmal Force
+rolling 1d6
+(
+1
+)
+=1
+13
+CHARISMA SAVE (6)
+20
+CONSTITUTION SAVE (4)
+19
+CONSTITUTION SAVE (4)
+Raven Amazing:
+29 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+9
+Piercing
+Improved Critical
+Class: Champion
+Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.
+rolling d8
+(
+7
+)
+=7
+Mike:
+19
+60 feet
+Ray of Frost (+5)
+5
+Cold
+24
+20/60
+Last Dagger (+6)
+2
+Dueling Style
+6
+Piercing
+Elote Silver Tongue:
+19
+Scimitar (+2)
+Anna Tinquil:
+6
+Slashing
+Ash:rolling 1d6
+(
+2
+)
+=2
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+4
+Cold
+60 feet
+Frostbite
+Gray:
+23
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+3 + 6
+Piercing
+6
+Sneak Attack (2d6)
+Gray
+11
+Sneak Attack (2d6)
+Gray
+Ash:
+7
+HIT DICE (D6+2)
+Raven Amazing:
+10
+HIT DICE (D10+2)
+Ash:rolling 1d6
+(
+3
+)
+=3
+Anna Tinquil:rolling 2d8
+(
+3
++
+7
+)
+=10
+Mike:
+6
+HIT DICE (D10+2)
+9
+HIT DICE (D10+2)
+Ash:
+8
+HIT DICE (D6+2)
+Anna Tinquil:rolling d6
+(
+2
+)
+=2
+Ash:
+8
+HIT DICE (D6+2)
+Raven Amazing:rolling d6
+(
+4
+)
+=4
+Mike:rolling 1d6
+(
+3
+)
+=3
+4
+HIT DICE (D6+2)
+7
+HIT DICE (D6+2)
+8
+HIT DICE (D6+2)
+Anna Tinquil:rolling 3d4
+(
+4
++
+1
++
+2
+)
+=7
+rolling d6
+(
+3
+)
+=3
+Ash:rolling 2d4+2
+(
+2
++
+3
+)+2
+=7
+21
+STEALTH (4)
+Gray:
+17
+SLEIGHT OF HAND (1)
+5
+STEALTH (1)
+Mike:
+10.08
+INITIATIVE (-0.92)
+Elote Silver Tongue:
+14.17
+INITIATIVE (4.17)
+Raven Amazing:
+24.18
+INITIATIVE (4.18)
+Mike:
+3.12
+INITIATIVE (1.12)
+Gray:
+11.13
+INITIATIVE (1.13)
+Anna Tinquil:
+19.12
+INITIATIVE (1.12)
+Ash:
+17.14
+INITIATIVE (2.14)
+Mike:
+15
+ATHLETICS (6)
+8
+ATHLETICS (4)
+11
+ATHLETICS (4)
+15
+DEXTERITY SAVE (1)
+8
+60 feet
+Ray of Frost (+5)
+Gray:
+18  6
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+2
+Piercing
+5
+Sneak Attack (2d6)
+Gray
+Elote Silver Tongue:
+6
+150/600
+Longbow (+3)
++2 to attack goblin kin
+Raven Amazing:
+FOR DESCRIPTION ONLY
+True Strike
+Divination Cantrip
+Casting Time: 1 action
+Range: 30 feet
+Target: A target in range
+Components: S
+Duration: Concentration Up to 1 round
+You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target’s defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn’t ended.
+SPELL SAVE DC: 0
+Mike:
+18
+CONSTITUTION SAVE (2)
+19
+CONSTITUTION SAVE (2)
+Raven Amazing:
+12 + 2  13 + 2
+80/320
+Light Crossbow (+7)
+12
+Piercing
+Kody M.:
+7
+150/600
+Longbow (+3)
++2 to attack goblin kin
+Jake:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+2
+Cold
+60 feet
+Frostbite
+15
+STEALTH (1)
+12  19
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+4
+Piercing
+8
+Sneak Attack (2d6)
+Gray
+Mike:
+22
+Rapier (+6)
+2
+Dueling Style
+6
+Piercing
+7
+60 feet
+Ray of Frost (+5)
+Raven Amazing:
+11 + 2
+80/320
+Light Crossbow (+7)
+9
+Piercing
+Kody M.:
+21
+150/600
+Longbow (+3)
++2 to attack goblin kin
+9
+Piercing
+Jake:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+4
+Cold
+60 feet
+Frostbite
+Kody M.:rolling 2d6
+(
+4
++
+5
+)
+=9
+Gray:
+7
+STEALTH (1)
+13
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+4
+Piercing
+9
+Sneak Attack (2d6)
+Gray
+Raven Amazing:
+5.18
+INITIATIVE (4.18)
+Kody M.:
+15.17
+INITIATIVE (4.17)
+Gray:
+6.13
+INITIATIVE (1.13)
+Mike:
+11.08
+INITIATIVE (-0.92)
+17.12
+INITIATIVE (1.12)
+Kody M.:
+5.12
+INITIATIVE (1.12)
+Ash:
+20.13
+INITIATIVE (1.13)
+Gray:
+13
+STEALTH (1)
+Ash:
+15
+STEALTH (1)
+Jake:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+1
+Cold
+60 feet
+Frostbite
+Mike:
+16
+60 feet
+Ray of Frost (+5)
+5
+Cold
+Kody M.:
+DC12
+Constitution Save
+5
+Thunder
+Higher Level Cast
+14
+Thunder
+Self (15-foot cube)
+Thunderwave
+Jake:
+7  12
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+5
+Piercing
+5
+Sneak Attack (2d6)
+Gray
+Raven Amazing:
+23 + 2  24 + 2
+80/320
+Light Crossbow (+7)
+12
+Piercing
+Kody M.:
+20
+150/600
+Longbow (+3)
++2 to attack goblin kin
+9
+Piercing
+Ash:
+24
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+17
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+16
+16
+Mike:
+13
+60 feet
+Ray of Frost (+5)
+5
+Cold
+Kody M.:
+17
+30/120
+Hand Crossbow (+5)
+8
+Piercing
+Mike:
+DC12
+half damage
+Dexterity Save
+2
+Dueling Style
+7
+Fire
+Breath Weapon
+Gray:
+10
+STEALTH (1)
+6
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+Raven Amazing:
+22 + 2
+150/600
+Longbow (+7)
+10
+Piercing
+Kody M.:
+12
+150/600
+Longbow (+3)
++2 to attack goblin kin
+Raven Amazing:
+17  19
+STRENGTH SAVE (3)
+Kody M.:
+11
+STRENGTH SAVE (0)
+Gray:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+2
+Cold
+60 feet
+Frostbite
+Mike:
+22
+120 feet
+Chill Touch (+5)
+7
+Necrotic
+Kody M.:rolling 2d4
+(
+4
++
+4
+)
+=8
+rolling 4d4
+(
+4
++
+3
++
+3
++
+1
+)
+=11
+Mike:
+Channel Divinity: Vow Of Enmity
+Class: Paladin Oath of Vengeance
+As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls unconscious.
+14  22
+Rapier (+6)
+2
+Dueling Style
+9
+Piercing
+Gray:
+15
+ATHLETICS (-1)
+Raven Amazing:
+23 + 2  11 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+5
+Piercing
+27 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+12
+Piercing
+Mike:
+21  22
+Rapier (+6)
+2
+Dueling Style
+10
+Piercing
+Gray:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+6
+Cold
+60 feet
+Frostbite
+Mike:
+18
+60 feet
+Ray of Frost (+5)
+8
+Cold
+2
+Cold
+Kody M.:
+8
+30/120
+Hand Crossbow (+5)
+Mike:
+18  25
+Rapier (+6)
+11
+Radiant/Dueling Style
+5
+Piercing
+Gray:
+2
+STEALTH (1)
+6
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+Raven Amazing:
+25 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+7
+Piercing
+rolling 1d10+3
+rolling d10
+(
+5
+)
+=5
+Kody M.:
+13
+150/600
+Longbow (+3)
++2 to attack goblin kin
+2
+Piercing
+Ash:"/roll 1d10+3"
+Raven Amazing:TY
+Ash:
+0  19
+STRENGTH SAVE (-1)
+Mike:
+17  7
+STRENGTH SAVE (2)
+Ash:
+15
+120 feet
+Chill Touch (+6)
+2
+Necrotic
+Mike:
+13
+60 feet
+Ray of Frost (+5)
+8
+Cold
+Kody M.:elote has 2
+grabs an extra so now has 2
+yea what jack said
+im downing potions here like a holiday party
+NO
+I was just referring to how I had already drank 2
+Mike:rolling 2d4
+(
+3
++
+4
+)
+=7
+rolling 2d4 + 2
+(
+1
++
+4
+)+2
+=7
+rolling 2d6
+(
+1
++
+2
+)
+=3
+rolling 1d4
+(
+1
+)
+=1
+Kody M.:hahahahahahaha
+Mike:
+22  6
+CONSTITUTION SAVE (2)
+Kody M.:bew bew bew bewwwwwww
+Elote Silver Tongue:I drink an amber in prep for the room
+rolling 2d6
+(
+6
++
+2
+)
+=8
+fuuuuu
+patron damn it
+I mean god damn it
+Raven Amazing:rolling 2d4
+(
+4
++
+3
+)
+=7
+Elote Silver Tongue:Want that cool rock skin
+Raven Amazing:rolling 2d4 + 2
+(
+4
++
+2
+)+2
+=8
+Flabnatz (GM):
+8
+INTELLIGENCE (1+1)
+20  11
+SLEIGHT OF HAND (5)
+21  13
+STEALTH (5)
+Gray:
+18
+STEALTH (1)
+Ash:
+8  16
+STEALTH (4)

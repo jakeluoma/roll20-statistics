@@ -1,0 +1,206 @@
+Kody M.:
+3
+INVESTIGATION (2)
+13
+SURVIVAL (1)
+11  10
+SURVIVAL (1)
+2  8
+SURVIVAL (1)
+Mike:
+12
+INTELLIGENCE SAVE (0)
+Raven Amazing:
+10
+INTELLIGENCE SAVE (3)
+Mike:
+10
+INVESTIGATION (0)
+Raven Amazing:Using an old laptop so that is probably why I have the feedback problems
+Might be a 2009 model
+Elote Silver Tongue:
+12  13
+WISDOM (0+1)
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+2
+Cold
+60 feet
+Frostbite
+Sevettijärvi:
+5
+SURVIVAL (-1)
+Ash:
+23
+INTIMIDATION (6)
+15
+SURVIVAL (0)
+Elote Silver Tongue:
+20
+WISDOM (0+1)
+Ash:
+11
+ATHLETICS (-1)
+Elote Silver Tongue:
+15  19
+STRENGTH (-1+1)
+Sevettijärvi:
+1
+INVESTIGATION (0)
+Ash:
+24
+STEALTH (4)
+Elote Silver Tongue:
+17  5
+WISDOM (0+1)
+12  22
+DEXTERITY (3+1)
+Ash:
+22
+DEXTERITY (2)
+Elote Silver Tongue:
+19
+SLEIGHT OF HAND (5)
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+2
+Cold
+60 feet
+Frostbite
+Elote Silver Tongue:
+19
+INVESTIGATION (2)
+Raven Amazing:
+13
+PERCEPTION (3)
+Elote Silver Tongue:rolling d8
+(
+3
+)
+=3
+Roll for HP
+Roll 1:6
+Sevettijärvi:
+Roll for HP
+Roll 1:6
+Raven Amazing:
+Roll for HP
+Roll 1:4
+Flabnatz (GM):
+12
+CONSTITUTION (-1)
+Raven Amazing:
+Roll for HP
+Roll 1:10
+Roll for HP
+Roll 1:6
+Average for HP
+Average:6
+Roll for HP
+Roll 1:5
+Roll for HP
+Roll 1:9
+Roll for HP
+Roll 1:9
+Raven Amazing:
+2
+Fighting Style: Archery
+2
+Fighting Style: Archery
+Elote Silver Tongue:
+11
+NATURE (2)
+14
+INVESTIGATION (2)
+rolling d20
+(
+7
+)
+=7
+21
+SURVIVAL (2)
+20
+NATURE (2)
+rolling d100
+(
+97
+)
+=97
+Elote Silver Tongue:rolling d8
+(
+2
+)
+=2
+rolling 2d4
+(
+4
++
+4
+)
+=8
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+5
+Cold
+60 feet
+Frostbite
+Sevettijärvi:
+6
+INVESTIGATION (0)
+17
+INVESTIGATION (0)
+Elote Silver Tongue:rolling 2d6
+(
+4
++
+4
+)
+=8
+Ash:
+12
+PERCEPTION (0)
+Raven Amazing:
+17  6
+STRENGTH SAVE (3)
+9
+PERCEPTION (4)
+Elote Silver Tongue:rolling 2d4
+(
+3
++
+3
+)
+=6
+rolling 2d6
+(
+5
++
+1
+)
+=6
+16
+INVESTIGATION (2)
+for a hint :)
+the hour glass?
+Ash:
+Mage Armor
+Abjuration 1
+Casting Time: 1 action
+Range: Touch
+Target: A willing creature who isn't wearing armor
+Components: V, S, M (A piece of cured leather)
+Duration: 8 hours
+You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target’s base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+SPELL SAVE DC: 14

@@ -1,0 +1,319 @@
+Elote Silver Tongue:
+6
+PERCEPTION (2)
+Ash:
+7
+PERCEPTION (0)
+Raven Amazing:
+15
+PERCEPTION (3)
+Elote Silver Tongue:
+4
+PERCEPTION (0)
+20  12
+PERCEPTION (2)
+Sawman:
+19
+INVESTIGATION (1)
+7
+INVESTIGATION (1)
+Ash:
+18  1
+PERCEPTION (0)
+Elote Silver Tongue:
+13  11
+PERCEPTION (2)
+18  16
+INVESTIGATION (2)
+5  9
+STRENGTH SAVE (-1)
+10
+ACROBATICS (5)
+Flabnatz (GM):
+15
+STRENGTH (-1+1)
+Elote Silver Tongue:
+10
+STRENGTH (-1+1)
+Sawman:
+18  14
+INVESTIGATION (1)
+Elote Silver Tongue:
+2
+HIT DICE (D4+-1)
+0
+HIT DICE (D4+-1)
+Marcus:rolling d6
+(
+5
+)
+=5
+Sawman:
+19  21
+INVESTIGATION (1)
+Raven Amazing:
+17  13
+PERCEPTION (3)
+Marcus:
+20  9
+PERCEPTION (2)
+Ash:
+4
+MEDICINE (0)
+Raven Amazing:
+Set Traps
+Background: Hunter
+Spend 10min laying down a trap. Traps use the basic mechanics of a woodland hunter’s traps, but can be improvised. Limit [Survival+1]=4 traps can be set at any one time.
+
+DC11 Perception (WIS) Check to spot the trap
+DC10 Investigation (INT) Check to understand how to safely disarm the trap
+DC10 Sleight of Hand (DEX) Check to disarm the trap without investigating it
+
+Attacks and Damages
+Spiked Trap >> +4 to Hit, 2d6 Piercing
+Bladed Trap >> +4 to Hit, 1d10+2 Slashing
+Crushing Trap >> +4 to Hit, 3d4 Bludgeoning
+Net Trap >> +6 to Hit, Restrained (Net)
+Set Traps
+Background: Hunter
+Spend 10min laying down a trap. Traps use the basic mechanics of a woodland hunter’s traps, but can be improvised. Limit [Survival+1]=4 traps can be set at any one time.
+
+DC11 Perception (WIS) Check to spot the trap
+DC10 Investigation (INT) Check to understand how to safely disarm the trap
+DC10 Sleight of Hand (DEX) Check to disarm the trap without investigating it
+
+Attacks and Damages
+Spiked Trap >> +4 to Hit, 2d6 Piercing
+Bladed Trap >> +4 to Hit, 1d10+2 Slashing
+Crushing Trap >> +4 to Hit, 3d4 Bludgeoning
+Net Trap >> +6 to Hit, Restrained (Net)
+Marcus:
+20
+WISDOM SAVE (0)
+Sawman:
+14
+WISDOM SAVE (-1)
+Ash:
+9
+WISDOM SAVE (0)
+Raven Amazing:
+19
+WISDOM SAVE (1)
+18
+WISDOM SAVE (-1)
+Elote Silver Tongue:
+7.17
+INITIATIVE (4.17)
+Ash:
+5.14
+INITIATIVE (2.14)
+Sevettijärvi:
+11.12
+INITIATIVE (1.12)
+Raven Amazing:
+15.18
+INITIATIVE (4.18)
+7.12
+INITIATIVE (1.12)
+11.12
+INITIATIVE (1.12)
+29 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+6 + 5
+Piercing
+Sevettijärvi:
+15
+60 feet
+Ray of Frost (+5)
+4
+Cold
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+2
+Cold
+60 feet
+Frostbite
+14
+WISDOM SAVE (0)
+Raven Amazing:
+11
+CONSTITUTION SAVE (4)
+14 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+6
+Piercing
+18 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+6
+Piercing
+Elote Silver Tongue:
+7
+CONSTITUTION SAVE (2)
+Sevettijärvi:
+20
+60 feet
+Ray of Frost (+5)
+1
+Cold
+Elote Silver Tongue:
+24
+Glowing Shortsword (+5)
+8
+Piercing
+Raven Amazing:
+22
+100/400
+Heavy Crossbow (+3)
+4
+Piercing
+Ash:
+17
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+6
+Higher Level Cast
+14
+11
+CONSTITUTION SAVE (4)
+Raven Amazing:
+27 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+11
+Piercing
+rolling d10
+(
+9
+)
+=9
+Sevettijärvi:
+12
+CONSTITUTION SAVE (4)
+Breath Weapon
+Racial: Dragonborn
+You can use your action to exhale destructive energy. Your blue draconic ancestry means this exhalation is a 5 by 30 ft. line dealing lightning damage.
+When you use your breath weapon, each creature in the area of the exhalation must make a Dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.
+After you use your breath weapon, you can't use it again until you complete a short or long rest.
+rolling 2d6
+(
+1
++
+1
+)
+=2
+Elote Silver Tongue:
+19
+Glowing Shortsword (+5)
+8
+Piercing
+Raven Amazing:
+Let's Pin It Down
+Background: Fisher/Hunter
+As a Bonus Action, secure a length of rope to the end of a barbed crossbow bolt so that it grapples the target on hit in addition to dealing damage.
+
+As an Action, yank on the rope connected to a grappled target to deal 1d4 Piercing and make the grappled creature make a DC11 STR Save or be pulled 10ft toward you.
+
+A grappled creature may use an action to attack the rope (DC=8, HP=5 Slashing) or pull the barbed bolt out (DC12 CON Save or take 2d4 Piercing, half-damage on save).
+19
+100/400
+Heavy Crossbow (+3)
+11
+Piercing
+Ash:
+16
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+4
+Higher Level Cast
+17
+20
+CONSTITUTION SAVE (4)
+19
+CHARISMA SAVE (6)
+Sevettijärvi:
+9
+CONSTITUTION SAVE (4)
+Raven Amazing:
+26 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+7
+Piercing
+6
+CONSTITUTION SAVE (4)
+Sevettijärvi:
+12
+DEATH SAVE (0)
+Elote Silver Tongue:
+12
+Glowing Shortsword (+5)
+5
+Piercing
+Raven Amazing:
+8
+100/400
+Heavy Crossbow (+3)
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+1
+Cold
+60 feet
+Frostbite
+Raven Amazing:
+1
+CONSTITUTION SAVE (0)
+20 + 2
+Sword of Edgar Linden-Delian Sword (+9)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+5
+Piercing
+Flabnatz (GM):
+FOR DESCRIPTION ONLY
+Cure Wounds
+Evocation 1
+Casting Time: 1 action
+Range: Touch
+Target: A creature you touch
+Components: V, S
+Duration: Instantaneous
+A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the Healing increases by 1d8 for each slot level above 1st.
+SPELL SAVE DC: 12
+Elote Silver Tongue:
+4
+Healing
+Touch
+Cure Wounds
+9
+Healing
+Touch
+Cure Wounds
+5
+INSIGHT (4)
