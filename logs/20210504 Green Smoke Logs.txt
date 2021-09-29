@@ -1,0 +1,358 @@
+Krumplekin:
+3
+CHARISMA (0)
+The Great Gouda:
+23
+NATURE (3)
+The Great Gouda
+Phil The Accountant:
+13
+MEDICINE (3)
+Kevin D.:
+21
+PERCEPTION (1)
+The Great Gouda:
+17
+PERCEPTION (3)
+The Great Gouda
+Krumplekin:rolling 4d118
+(
+109
++
+107
++
+52
++
+29
+)
+=297
+rolling 4d118
+(
+110
++
+4
++
+68
++
+53
+)
+=235
+Animal:
+15
+NATURE (3)
+Krumplekin:
+15
+CONSTITUTION SAVE (3)
+The Great Gouda:
+18
+PERSUASION (1)
+The Great Gouda
+Kevin D.:rolling 4d6k3
+(
+2
++
+4
++
+3
++
+5
+)
+=12
+18
+PERSUASION (1)
+The Great Gouda:
+6
+NATURE (3)
+The Great Gouda
+Kevin D.:
+3
+NATURE (0)
+Krumplekin:1
+2
+3
+4
+5
+6
+Krumplekin:7
+8
+9
+10
+11
+12
+Krumplekin:13
+14
+15
+16
+17
+Kevin D.:TELLURIUM!
+5
+INSIGHT (1)
+Phil The Accountant:
+7
+INSIGHT (1)
+The Great Gouda:
+7
+INSIGHT (1)
+The Great Gouda
+Krumplekin:
+18
+CONSTITUTION SAVE (5)
+17
+CONSTITUTION SAVE (5)
+11
+CONSTITUTION SAVE (5)
+Animal:
+11
+CONSTITUTION SAVE (1)
+The Great Gouda:
+8
+CONSTITUTION SAVE (1)
+The Great Gouda
+5
+CONSTITUTION SAVE (1)
+The Great Gouda
+Krumplekin:
+17
+CHARISMA (0)
+13
+PERSUASION (0)
+16
+CONSTITUTION SAVE (5)
+Kevin D.:
+7
+INITIATIVE (2)
+The Great Gouda:
+14
+INITIATIVE (1)
+The Great Gouda
+Animal:
+3
+INITIATIVE (1)
+Kevin D.:
+16
+INITIATIVE (2)
+The Great Gouda:
+20
+INITIATIVE (1)
+The Great Gouda
+Phil The Accountant:
+11
+INITIATIVE (2)
+Krumplekin:
+16.1
+INITIATIVE (0.1)
+DC0
+Constitution Save
+9
+Thunder
+Self (15-foot cube)
+Thunderwave
+9
+CONSTITUTION SAVE (5)
+Kevin D.:
+5
+DEXTERITY SAVE (4)
+18
+20/60
+Dagger (+4)
+Phil The Accountant:
+12
+DEXTERITY (2)
+rolling 1d4
+(
+3
+)
+=3
+Kevin D.:
+7
+STEALTH (4)
+The Great Gouda:
+3
+STRENGTH SAVE (2)
+The Great Gouda
+Phil The Accountant:rolling 1d20
+(
+16
+)
+=16
+rolling 1d4
+(
+1
+)
+=1
+'/roll 1d20'
+Kitty C. (GM):
+Initiative
+Acolyte
+Initiative: 13.15
+Initiative
+Swarm of Insects
+Initiative: 10
+Bites (swarm has more than half HP)
+Swarm of Insects
+Attack: 6
+Animal:rolling 1d20+1
+(
+5
+)+1
+=6
+Krumplekin:rolling d20
+(
+10
+)
+=10
+The Great Gouda:
+5
+STRENGTH SAVE (2)
+The Great Gouda
+Krumplekin:
+16
+CONSTITUTION SAVE (5)
+Phil The Accountant:rolling 1d20+1
+(
+11
+)+1
+=12
+Kitty C. (GM):rolling 1d2
+(
+2
+)
+=2
+Krumplekin:rolling d20
+(
+13
+)
+=13
+Kevin D.:
+8
+20/60
+Dagger (+4)
+The Great Gouda:rolling d20 + 1
+(
+11
+)+1
+=12
+4
+STRENGTH SAVE (2)
+The Great Gouda
+Phil The Accountant:rolling 1d20+1
+(
+13
+)+1
+=14
+Animal:rolling 1d20+1
+(
+18
+)+1
+=19
+Kevin D.:
+17
+20/60
+Dagger (+4)
+The Great Gouda:rolling d20 + 1
+(
+4
+)+1
+=5
+Kitty C. (GM):rolling 1d2
+(
+1
+)
+=1
+Phil The Accountant:rolling 1d20+1
+(
+3
+)+1
+=4
+Animal:rolling 1d20+1
+(
+2
+)+1
+=3
+Krumplekin:rolling d20
+(
+14
+)
+=14
+Kevin D.:
+21
+20/60
+Dagger (+4)
+3
+Phil The Accountant:rolling 1d10+1
+(
+2
+)+1
+=3
+rolling 1d20+1
+(
+11
+)+1
+=12
+The Great Gouda:
+17
+MEDICINE (1)
+The Great Gouda
+15
+MEDICINE (1)
+The Great Gouda
+6
+MEDICINE (1)
+The Great Gouda
+Animal:
+17
+ARCANA (3)
+Krumplekin:
+19
+ARCANA (2)
+Kevin D.:
+7
+NATURE (0)
+Phil The Accountant:
+22
+DEXTERITY SAVE (2)
+6
+INSIGHT (1)
+Kevin D.:
+15
+INSIGHT (1)
+Phil The Accountant:
+13
+INVESTIGATION (3)
+Krumplekin:AgHOTi
+Phil The Accountant:
+7
+ARCANA (3)
+The Great Gouda:
+11
+ARCANA (1)
+The Great Gouda
+Phil The Accountant:
+14
+SLEIGHT OF HAND (4)
+The Great Gouda:
+14
+SLEIGHT OF HAND (1)
+The Great Gouda
+16
+SURVIVAL (1)
+The Great Gouda
+Phil The Accountant:
+4
+SURVIVAL (1)
+12
+CONSTITUTION SAVE (2)
+Edward:
+7
+INSIGHT (2)
+Kevin D.:rolling 4d6k3
+(
+3
++
+4
++
+6
++
+4
+)
+=14

@@ -1,0 +1,550 @@
+Raven Amazing:
+8.2
+INITIATIVE (4.2)
+Kody M.:
+20.17
+INITIATIVE (4.17)
+Mike:
+10.08
+INITIATIVE (-0.92)
+Jake:
+20.14
+INITIATIVE (2.14)
+Raven Amazing:
+20 + 2
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+4
+Piercing
+Kody M.:
+18
+Shapened Sword (+6)
+4
+  4
+Flabnatz (GM):
+Hit Points
+Warhorse (Water)
+Hit Points: 23
+Kody M.:rolling d6
+(
+3
+)
+=3
+Jake:
+10
+PERSUASION (7)
+Varnōk Todorim:
+11
+Hamberd Hammer (One-Handed) (+7)
+20
+Hamberd Hammer (One-Handed) (+7)
+16
+Radiant/Dueling Style
+6
+Bludgeoning
+Hooves
+Warhorse (Water)
+Attack: 7
+Raven Amazing:
+19 + 2
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+6
+Piercing
+10 + 2
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+20 + 2  15 + 2
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+7
+Piercing
+Kody M.:rolling 1d6
+(
+3
+)
+=3
+Ashlee Umber:rolling 1d20
+(
+10
+)
+=10
+26
+PERSUASION (7)
+Varnōk Todorim:
+None Spell Attack.
+2
+Dueling Style
+8
+Thunder
+Self
+Thunderous Smite
+Show Spell Description
+18
+Hamberd Hammer (One-Handed) (+7)
+2
+Dueling Style
+9
+Bludgeoning
+FOR DESCRIPTION ONLY
+Thunderous Smite
+Evocation 1
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: Concentration 1 minute
+The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
+SPELL SAVE DC: 14
+Flabnatz (GM):rolling d20
+(
+14
+)
+=14
+Varnōk Todorim:
+Hooves
+Warhorse (Water)
+Attack: 16
+Damage: 8bludgeoning + 3bludgeoning (magical)
+This warhorse's attacks create a wave of water that deals an extra 1d4 bludgeoning (magical) damage and knocks the target prone if the target fails a STR save against the attuned paladin's Spell Save DC
+Raven Amazing:
+12 + 2  19 + 2
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+7
+Piercing
+Kody M.:
+21
+1 Charge Sword (+7)
+11
+1 Charge Sword (+7)
+8
+  4
+Flabnatz (GM):rolling d20
+(
+20
+)
+=20
+rolling 4d8
+(
+1
++
+6
++
+8
++
+3
+)
+=18
+Ashlee Umber:
+11
+120 feet
+Chaos Bolt (+7)
+Show Spell Description
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+27
+120 feet
+Chaos Bolt (+7)
+Show Spell Description
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+8 + 10
+17 + 10
+16
+120 feet
+Chaos Bolt (+7)
+Show Spell Description
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+15
+Varnōk Todorim:rolling 2d6
+(
+5
++
+1
+)
+=6
+15
+Hamberd Spike (+7)
+2
+Dueling Style
+10
+Piercing
+Hooves
+Warhorse (Water)
+Attack: 15
+Damage: 8bludgeoning + 3bludgeoning (magical)
+This warhorse's attacks create a wave of water that deals an extra 1d4 bludgeoning (magical) damage and knocks the target prone if the target fails a STR save against the attuned paladin's Spell Save DC
+Raven Amazing:
+10 + 2  13 + 2
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+Kody M.:
+22
+1 Charge Sword (+7)
+6
+  1
+Ashlee Umber:
+DC15
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+10
+Cold
+60 feet
+Frostbite
+Show Spell Description
+Varnōk Todorim:
+14
+Hamberd Spike (+7)
+2
+Dueling Style
+7
+Piercing
+17
+Hamberd Spike (+7)
+2
+Dueling Style
+10
+Piercing
+Raven Amazing:
+19 + 2
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+4
+Piercing
+Kody M.:
+20
+1 Charge Sword (+7)
+8
+  3
+Varnōk Todorim:
+25
+Hamberd Spike (+7)
+Raven Amazing:
+13 + 2
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+Varnōk Todorim:
+2
+Dueling Style
+9
+Piercing
+Raven Amazing:
+8
+Piercing
+Kody M.:
+22
+1 Charge Sword (+7)
+8
+  4
+Ashlee Umber:
+4
+ARCANA (0)
+Slow
+Transmutation 3
+Casting Time: 1 action
+Range: 120 feet
+Target: Up to six creatures of your choice in a 40-foot cube within range
+Components: V, S, M (A drop of molasses)
+Duration: Concentration Up to 1 minute
+You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration. An affected target’s speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can’t use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature’s abilities or magic items, it can’t make more than one melee or ranged attack during its turn. If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn’t take effect until the creature’s next turn, and the creature must use its action on that turn to complete the spell. If it can’t, the spell is wasted. A creature affected by this spell makes another Wisdom saving throw at the end of its turn. On a successful save, the effect ends for it.
+SPELL SAVE DC: 15
+Varnōk Todorim:
+13
+Hamberd Spike (+7)
+13
+Radiant/Dueling Style
+9
+Piercing
+13
+Hamberd Spike (+7)
+2
+Dueling Style
+10
+Piercing
+Raven Amazing:
+18 + 2
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+7
+Piercing
+Kody M.:
+18
+1 Charge Sword (+7)
+9
+  2
+Ashlee Umber:
+9
+CONSTITUTION SAVE (5)
+DC15
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+6
+Cold
+60 feet
+Frostbite
+Show Spell Description
+Varnōk Todorim:
+14
+Hamberd Spike (+7)
+2
+Dueling Style
+5
+Piercing
+20
+Hamberd Spike (+7)
+2
+Dueling Style
+11
+Piercing
+Raven Amazing:
+24 + 2
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+4
+Piercing
+Kody M.:
+19
+1 Charge Sword (+7)
+9
+  1
+Ashlee Umber:
+Slow
+Transmutation 3
+Casting Time: 1 action
+Range: 120 feet
+Target: Up to six creatures of your choice in a 40-foot cube within range
+Components: V, S, M (A drop of molasses)
+Duration: Concentration Up to 1 minute
+You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration. An affected target’s speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can’t use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature’s abilities or magic items, it can’t make more than one melee or ranged attack during its turn. If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn’t take effect until the creature’s next turn, and the creature must use its action on that turn to complete the spell. If it can’t, the spell is wasted. A creature affected by this spell makes another Wisdom saving throw at the end of its turn. On a successful save, the effect ends for it.
+SPELL SAVE DC: 15
+Varnōk Todorim:
+Channel Divinity: Vow Of Enmity
+Class: Paladin Oath of Vengeance
+As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls unconscious.
+16
+Hamberd Spike (+7)
+14
+Hamberd Spike (+7)
+2
+Dueling Style
+7
+Piercing
+rolling 3d8
+(
+3
++
+6
++
+4
+)
+=13
+25  23
+Hamberd Spike (+7)
+Varnōk Todorim:
+12
+Radiant/Dueling Style
+10
+Piercing
+Raven Amazing:
+18 + 2
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+6
+Piercing
+Kody M.:
+19
+1 Charge Sword (+7)
+4
+  2
+Ashlee Umber:
+20
+120 feet
+Chaos Bolt (+7)
+Show Spell Description
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+4
+Higher Level Cast
+6
+rolling 1d8
+(
+4
+)
+=4
+rolling 1d6
+(
+6
+)
+=6
+6
+Higher Level Cast
+16
+Varnōk Todorim:
+10  11
+CONSTITUTION SAVE (2)
+rolling 1d6
+(
+5
+)
+=5
+19
+Hamberd Spike (+7)
+2
+Dueling Style
+8
+Piercing
+rolling 3d8
+(
+8
++
+6
++
+8
+)
+=22
+Kody M.:
+8
+HISTORY (2)
+20
+INSIGHT (7)
+(To GM):
+8
+PERSUASION (7)
+(To GM): it aligns with the natural one persuasion lol
+(From Flabnatz (GM)): fair?
+(To GM): yep
+Kody M.:
+7
+HIT DICE (D8+2)
+8
+HIT DICE (D8+2)
+Varnōk Todorim:
+12
+HIT DICE (D10+2)
+Ashlee Umber:
+6
+HIT DICE (D6+2)
+Varnōk Todorim:
+12
+HIT DICE (D10+2)
+Raven Amazing:
+8
+HIT DICE (D10+2)
+rolling d6
+(
+2
+)
+=2
+Kody M.:rolling d6
+(
+6
+)
+=6
+Ashlee Umber:rolling 1d6
+(
+4
+)
+=4
+Raven Amazing:
+16  5
+PERCEPTION (4)
+Kody M.:
+5
+SURVIVAL (2)
+12
+SURVIVAL (2)
+17
+INVESTIGATION (2)
+Ashlee Umber:
+8
+INVESTIGATION (0)
+1
+INTELLIGENCE (0)
+6
+ACROBATICS (2)
+Kody M.:
+8
+ACROBATICS (6)
+Varnōk Todorim:
+18
+STRENGTH (4)
+Ashlee Umber:
+5
+STRENGTH (-1)
+Raven Amazing:
+8
+STRENGTH (-1)
+Kody M.:
+14
+30/120
+Hand Crossbow (+6)
+13
+ARCANA (6)
+FOR DESCRIPTION ONLY
+Identify
+Divination 1
+Casting Time: 1 minute
+Range: Touch
+Target: One object that you must touch throughout the casting of the spell
+Components: V, S, M (A pearl worth at least 100 gp and an owl feather)
+Duration: Instantaneous
+You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it. If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
+SPELL SAVE DC: 13
+19
+INTELLIGENCE (1+1)
+16  15
+PERFORMANCE (5)
+Anybody got that note somewhere?
+Varnōk Todorim:
+14
+HISTORY (-1)
+(To Kody M.): I, Amelio Varous, swear the Delian Oath:
+Ashlee Umber:
+I will serve law, battle chaos, and
+Strive to keep the Delian Lore Safe.
+Kody M.:battle chaos???
+(To Kody M.): that was supposed to be full whisper. not sure why it didn't do it
+Ashlee Umber:
+1  6
+STRENGTH (-1)
+Raven Amazing:
+9  12
+STRENGTH (-1)
+17  10
+STRENGTH (-1)
+5  11
+STRENGTH (-1)
+9  1
+STRENGTH (-1)
+5  9
+STRENGTH (-1)
+14  17
+STRENGTH (-1)

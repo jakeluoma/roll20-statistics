@@ -1,0 +1,507 @@
+Kevin:
+4
+Sneak
+7
+Rapier (+5)
+6
+Rapier (+5)
+25
+Rapier (+5)
+18
+Rapier (+5)
+19
+Rapier (+5)
+Kevin:
+4
+Sneak
+6
+20/60
+Dagger (+5)
+10
+20/60
+Dagger (+5)
+23
+20/60
+Dagger (+5)
+18
+20/60
+Dagger (+5)
+Kitty C. (GM):
+4
+Piercing
+5
+Piercing
+Kevin:
+4
+Piercing
+7
+Piercing
+19
+20/60
+Dagger (+5)
+4
+Sneak
+5
+Piercing
+Fresh Phil The Accountant:
+11
+INVESTIGATION (5)
+Kody M.:
+2
+INVESTIGATION (1)
+Phil The Accountant:rolling 1d4
+(
+3
+)
+=3
+The Great Gouda:rolling d8
+(
+5
+)
+=5
+7
+PERCEPTION (5)
+Bummer:
+9
+SURVIVAL (0)
+Phil The Accountant:
+20
+INSIGHT (0)
+20
+PERSUASION (2)
+Lonzo:
+Light
+Evocation Cantrip
+Casting Time: 1 action
+Range: Touch
+Target: One object that is no larger than 10 feet in any dimension
+Components: V, M (A firefly or phosphorescent moss)
+Duration: 1 hour
+You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action. If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
+SPELL SAVE DC: 11
+Bummer:
+Abjuration Cantrip
+Components: V, S, M
+SPELL SAVE DC: 0
+The Great Gouda:
+Feather Fall
+Transmutation 1
+Casting Time: 1 reaction, which you take when you or a creature within 60 feet of you falls
+Range: 60 feet
+Target: Up to five falling creatures within range
+Components: V, M (A small feather or piece of down)
+Duration: 1 minute
+Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
+SPELL SAVE DC: 13
+FOR DESCRIPTION ONLY
+Feather Fall
+Transmutation 1
+Casting Time: 1 reaction, which you take when you or a creature within 60 feet of you falls
+Range: 60 feet
+Target: Up to five falling creatures within range
+Components: V, M (A small feather or piece of down)
+Duration: 1 minute
+Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
+SPELL SAVE DC: 13
+Bummer:
+Illusion Cantrip
+Components: V, S, M
+SPELL SAVE DC: 0
+Mike:
+11
+PERCEPTION (0)
+Lonzo:
+21  13
+PERCEPTION (1)
+Animal:
+18
+INITIATIVE (2)
+Lonzo:
+7
+INITIATIVE (1)
+The Great Gouda:
+16
+INITIATIVE (1)
+Bummer:
+8
+INITIATIVE (3)
+Phil The Accountant:
+3
+INITIATIVE (0)
+Lonzo:
+9  5
+60 feet
+Ray of Frost (+3)
+1
+Cold
+8
+60 feet
+Ray of Frost (+3)
+Phil The Accountant:
+13
+20/60
+Handaxe (+6)
+7
+Slashing
+Mike:
+22
+Drumsticks (+6)
+2
+Rage
+5
+Bludgeoning
+The Great Gouda:
+DC13
+Dexterity Save
+3
+Acid
+60 feet
+Acid Splash
+FOR DESCRIPTION ONLY
+Acid Splash
+Conjuration Cantrip
+Casting Time: 1 action
+Range: 60 feet
+Target: One creature within range or two creatures within range that are within 5 feet of each other
+Components: V, S
+Duration: Instantaneous
+You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+SPELL SAVE DC: 13
+Bummer:
+19
+80/320
+Shortbow (+5)
+9
+Piercing
+4
+Sneak
+Lonzo:
+11
+60 ft
+Dissonant Whispers (+2)
+4
+60 ft
+Dissonant Whispers (+2)
+Ranged Spell Attack. A creature that can hear you within range.
+rolling 3d6
+(
+3
++
+6
++
+6
+)
+=15
+Mike:
+25
+Drumsticks (+6)
+2
+Rage
+8
+Bludgeoning
+Phil The Accountant:
+15
+20/60
+Handaxe (+6)
+10
+Slashing
+Mike:
+7  13
+DEXTERITY SAVE (2)
+Lonzo:
+18
+60 ft
+Dissonant Whispers (+3)
+2
+DEXTERITY SAVE (1)
+Animal:
+8
+Greataxe Guitar (+6)
+Lonzo:Doooooooope
+Animal:
+2
+Rage
+16
+Slashing
+The Great Gouda:
+22
+120 feet
+Fire Bolt (+5)
+2
+Fire
+Bummer:
+6
+80/320
+Shortbow (+5)
+Phil The Accountant:
+20
+DEXTERITY SAVE (0)
+Lonzo:What the actual hell Jake
+Phil The Accountant:I'M UNSTOPPABLE
+Lonzo:
+8
+DEATH SAVE (0)
+Phil The Accountant:
+12  9
+STRENGTH SAVE (6)
+Animal:
+8
+Greataxe Guitar (+6)
+2
+Rage
+5
+Slashing
+15
+Greataxe Guitar (+6)
+2
+Rage
+13
+Slashing
+Phil The Accountant:rolling 4d6k3
+(
+4
++
+6
++
+2
++
+3
+)
+=13
+rolling 4d6k3
+(
+4
++
+3
++
+1
++
+5
+)
+=12
+rolling 4d6k3
+(
+3
++
+4
++
+1
++
+1
+)
+=8
+rolling 4d6k3
+(
+5
++
+4
++
+4
++
+2
+)
+=13
+rolling 4d6k3
+(
+1
++
+2
++
+2
++
+1
+)
+=5
+rolling 4d6k3
+(
+5
++
+4
++
+1
++
+6
+)
+=15
+The Great Gouda:
+Mending
+Transmutation Cantrip
+Casting Time: 1 minute
+Range: Touch
+Target: A single break or tear in an object you touch
+Components: V, S, M (Two lodestones)
+Duration: Instantaneous
+This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage. This spell can physically repair a magic item or construct, but the spell can’t restore magic to such an object.
+SPELL SAVE DC: 13
+rolling d8
+(
+8
+)
+=8
+Lonzo:rolling 1d8
+(
+3
+)
+=3
+Bummer:
+13
+INVESTIGATION (2)
+Lonzo:
+12
+INITIATIVE (1)
+Bummer:
+9
+INITIATIVE (3)
+Animal:
+4
+INITIATIVE (2)
+The Great Gouda:
+13
+INITIATIVE (1)
+Lonzo:
+DC10
+Half Damage
+Wisdom Save
+10
+60 feet
+Dissonant Whispers
+The Great Gouda:
+24
+60 feet
+Ray of Frost (+5)
+4
+Cold
+Phil The Accountant:
+Personality Trait2
+I can find common ground between the fiercest enemies, empathizing with them and always working towards peace.
+Personality Trait7
+I've enjoyed fine food, drink, and high society among my temple’s elite. Rough living grates on me.
+Ideal2
+Charity. I always try to help those in need, no matter what the personal cost. (Good)
+Bond5
+I will do anything to protect the temple where I served.
+Flaw1
+I judge others harshly, and myself even more severely.
+Lonzo:
+1
+Healing
+Touch
+Mending
+Bummer:
+17
+Rapier (+5)
+8
+Piercing
+1
+Sneak
+Animal:rolling 1d8
+(
+7
+)
+=7
+The Great Gouda:
+13
+120 feet
+Fire Bolt (+5)
+10
+Fire
+Lonzo:
+DC10
+Half Damage
+Strength Save
+7
+Necrotic
+Self (10ft area)
+Arms of Hadar
+FOR DESCRIPTION ONLY
+Arms of Hadar
+Conjuration 1
+Casting Time: 1 Action
+Range: Self (10ft area)
+Target: Self
+Components: V, S
+Duration: Instantaneous
+You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+SPELL SAVE DC: 11
+Bummer:
+7
+STRENGTH SAVE (1)
+Phil The Accountant:
+14
+INITIATIVE (3)
+Bummer:
+7
+DEATH SAVE (0)
+Lonzo:
+17
+DEATH SAVE (0)
+Animal:
+18
+Greataxe Guitar (+6)
+7
+Slashing
+Phil The Accountant:
+24
+Scimitar (+5)
+Spam the Eagle:
+9
+Slashing
+5
+Healing
+60 feet
+Healing Word
+The Great Gouda:
+16
+60 feet
+Ray of Frost (+5)
+Identify
+Divination 1
+Casting Time: 1 minute
+Range: Touch
+Target: One object that you must touch throughout the casting of the spell
+Components: V, S, M (A pearl worth at least 100 gp and an owl feather)
+Duration: Instantaneous
+You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it. If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
+SPELL SAVE DC: 13
+Bummer:
+9
+INVESTIGATION (2)
+Lonzo:negative
+rolling 1d3
+(
+3
+)
+=3
+rolling 1dd
+1
+=1
+rolling 1d2
+(
+1
+)
+=1
+11
+DEXTERITY SAVE (1)
+Spam the Eagle:
+22
+DEXTERITY SAVE (3)
+rolling 1d8
+(
+1
+)
+=1
+Lonzo:
+9
+ARCANA (3)
+Spam the Eagle:
+5
+ARCANA (1)
+rolling 1d3
+(
+2
+)
+=2
+5
+DEXTERITY SAVE (3)
+Lonzo:A puzzle for 1st graders. Only cost us an unconscious

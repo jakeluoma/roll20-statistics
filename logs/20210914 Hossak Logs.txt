@@ -1,0 +1,346 @@
+Elote:
+17
+SURVIVAL (2)
+17
+SURVIVAL (2)
+7
+SURVIVAL (2)
+Ashlee Umber:rolling 1d8
+(
+6
+)
+=6
+Kody M.:
+24
+PERCEPTION (4)
+Raven Amazing:
+14.2
+INITIATIVE (4.2)
+Ashlee Umber:
+12.14
+INITIATIVE (2.14)
+Elote Silver Tongue:
+5.17
+INITIATIVE (4.17)
+Mike:
+12.08
+INITIATIVE (-0.92)
+Elote Silver Tongue:
+8.17
+INITIATIVE (4.17)
+Raven Amazing:
+12 + 2
+ 
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+4
+Piercing
+25
+ 
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+2
+Rage
+8
+Piercing
+Ashlee Umber:
+FOR DESCRIPTION ONLY
+Slow
+Transmutation 3
+Casting Time: 1 action
+Range: 120 feet
+Target: Up to six creatures of your choice in a 40-foot cube within range
+Components: V, S, M (A drop of molasses)
+Duration: Concentration Up to 1 minute
+You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration. An affected target’s speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can’t use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature’s abilities or magic items, it can’t make more than one melee or ranged attack during its turn. If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn’t take effect until the creature’s next turn, and the creature must use its action on that turn to complete the spell. If it can’t, the spell is wasted. A creature affected by this spell makes another Wisdom saving throw at the end of its turn. On a successful save, the effect ends for it.
+SPELL SAVE DC: 14
+Slow
+Transmutation 3
+Casting Time: 1 action
+Range: 120 feet
+Target: Up to six creatures of your choice in a 40-foot cube within range
+Components: V, S, M (A drop of molasses)
+Duration: Concentration Up to 1 minute
+You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration. An affected target’s speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can’t use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature’s abilities or magic items, it can’t make more than one melee or ranged attack during its turn. If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn’t take effect until the creature’s next turn, and the creature must use its action on that turn to complete the spell. If it can’t, the spell is wasted. A creature affected by this spell makes another Wisdom saving throw at the end of its turn. On a successful save, the effect ends for it.
+SPELL SAVE DC: 15
+Varnōk Todorim:
+23
+Hamberd Hammer (One-Handed) (+7)
+9
+Hamberd Hammer (One-Handed) (+7)
+2
+Dueling Style
+5
+Bludgeoning
+Hooves
+Warhorse (Water)
+Attack: 23
+Damage: 13bludgeoning + 3bludgeoning (magical)
+This warhorse's attacks create a wave of water that deals an extra 1d4 bludgeoning (magical) damage and knocks the target prone if the target fails a STR save against the attuned paladin's Spell Save DC
+Elote Silver Tongue:
+10
+Sharpened Sword (+6)
+7
+  2
+Raven Amazing:
+11
+ 
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+2
+Rage
+10
+Piercing
+Ashlee Umber:
+9
+60 ft
+Mind Splinter (+7)
+Show Spell Description
+You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target must succeed on an Intelligence saving throw or take 1d6 psychic damage and subtract 1d4 from the next saving throw it makes before the end of your next turn.
+
+At Higher Levels: This spell’s damage increases by 1d6 when you reach certain levels: 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+DC 15
+Intelligence Save
+2
+Psychic
+Varnōk Todorim:
+None Spell Attack.
+2
+Dueling Style
+6
+Psychic
+self
+Wrathful Smite
+Show Spell Description
+FOR DESCRIPTION ONLY
+Wrathful Smite
+Evocation 1
+Casting Time: 1 bonus action
+Range: self
+Components: V
+Duration: Concentration 1 minute
+The next time you hit with a melee weapon attack during this spell’s duration, your attack deals an extra 1d6 psychic damage. Additionally, if the target is a creature, it must make a Wisdom saving throw or be frightened of you until the spell ends. As an action, the creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell.
+SPELL SAVE DC: 14
+12
+Hamberd Axe (One-Handed) (+7)
+21
+Hamberd Axe (One-Handed) (+7)
+2
+Dueling Style
+7
+Slashing
+Ashlee Umber:rolling 1d4
+(
+2
+)
+=2
+Varnōk Todorim:
+Hooves
+Warhorse (Water)
+Attack: 25
+Damage: 10bludgeoning + 4bludgeoning (magical)
+This warhorse's attacks create a wave of water that deals an extra 1d4 bludgeoning (magical) damage and knocks the target prone if the target fails a STR save against the attuned paladin's Spell Save DC
+Elote Silver Tongue:
+22
+Sharpened Sword (+6)
+7
+  1
+Varnōk Todorim:
+15
+Hamberd Spike (+7)
+2
+Dueling Style
+9
+Piercing
+Raven Amazing:
+12
+ 
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+Ashlee Umber:
+24
+120 feet
+Chaos Bolt (+7)
+Show Spell Description
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+15
+120 feet
+Chaos Bolt (+7)
+Show Spell Description
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+17
+17
+Flabnatz (GM):rolling 1d6
+(
+5
+)
+=5
+Varnōk Todorim:
+10
+Hamberd Hammer (One-Handed) (+7)
+13
+Hamberd Hammer (One-Handed) (+7)
+2
+Dueling Style
+7
+Bludgeoning
+Hooves
+Warhorse (Water)
+Attack: 17
+Damage: 6bludgeoning + 4bludgeoning (magical)
+This warhorse's attacks create a wave of water that deals an extra 1d4 bludgeoning (magical) damage and knocks the target prone if the target fails a STR save against the attuned paladin's Spell Save DC
+Elote Silver Tongue:
+24
+Sharpened Sword (+6)
+26
+Sharpened Sword (+6)
+9 + 3
+  1 + 3
+rolling 1d6
+(
+1
+)
+=1
+Raven Amazing:
+17
+ 
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+2
+Rage
+6
+Piercing
+14
+ 
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+Ashlee Umber:
+22
+120 feet
+Chaos Bolt (+7)
+Show Spell Description
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+9
+120 feet
+Chaos Bolt (+7)
+Show Spell Description
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+9
+Varnōk Todorim:
+16
+Hamberd Axe (One-Handed) (+7)
+10
+Hamberd Axe (One-Handed) (+7)
+Hooves
+Warhorse (Water)
+Attack: 11
+Elote Silver Tongue:
+21
+Sharpened Sword (+6)
+8
+  4
+19
+Sharpened Sword (+6)
+8
+  1
+Varnōk Todorim:
+26
+Hamberd Axe (One-Handed) (+7)
+2
+Dueling Style
+5
+Slashing
+Raven Amazing:
+14
+ 
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+Ashlee Umber:
+26
+120 feet
+Chill Touch/Lich Slap (+7)
+Show Spell Description
+13
+Necrotic
+Elote Silver Tongue:Because I don't want him to get away!
+Varnōk Todorim:
+27
+Hamberd Axe (One-Handed) (+7)
+19
+Hamberd Axe (One-Handed) (+7)
+2
+Dueling Style
+8 + 4
+Slashing
+2
+Dueling Style
+8
+Slashing
+Hooves
+Warhorse (Water)
+Attack: 14
+Elote Silver Tongue:
+18
+Sharpened Sword (+6)
+7
+  2
+Varnōk Todorim:
+13
+WISDOM SAVE (3)
+Raven Amazing:
+10
+WISDOM SAVE (1)
+7
+PERCEPTION (4)
+Ashlee Umber:
+6
+PERCEPTION (0)
+Varnōk Todorim:
+16
+PERCEPTION (0)
+Wisdom
+Warhorse (Water)
+Ability: 3
+Elote Silver Tongue:
+19
+INVESTIGATION (2)
+4
+HISTORY (2)
+11
+ARCANA (4)
+Kody M.:
+Abjuration 1
+Components: V, S, M
+SPELL SAVE DC: 13
+Abjuration 1
+Components: V, S, M
+SPELL SAVE DC: 13
+Abjuration 1
+Components: V, S, M
+SPELL SAVE DC: 13
+Abjuration 1
+Components: V, S, M
+SPELL SAVE DC: 13

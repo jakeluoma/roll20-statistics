@@ -18,7 +18,7 @@ class Parser:
     def __init__(self, statistics, debug):
         self.statistics = statistics
         self.debug = debug
-        self.filename = self.get_filename()
+        self.filename = self.get_filename_of_logs()
         self.name_unknown_state = Name_Unknown_State(self.statistics, self)
         self.name_known_state = Name_Known_State(self.statistics, self)
         self.result_or_damage_state = Result_Or_Damage_State(self.statistics, self)
@@ -28,6 +28,7 @@ class Parser:
         self.raw_number_two = 0
 
 
+    """ State Transition Methods """
     def change_to_name_unknown_state(self):
         self.current_state = self.name_unknown_state
 
@@ -38,7 +39,7 @@ class Parser:
         self.current_state = self.result_or_damage_state
 
 
-    def get_filename(self):
+    def get_filename_of_logs(self):
         print("Select chat log file you want processed (must be a .txt file)")
         root = tkinter.Tk()
         root.withdraw()
@@ -46,6 +47,7 @@ class Parser:
         return filename
 
     
+    """ Methods to track the current PC name while parsing """
     def set_name(self, name):
         self.name = name
 
@@ -53,12 +55,12 @@ class Parser:
         return self.name
 
 
+    """ Methods to track single or double D20 rolls """
     def set_raw_number_one(self, number):
         self.raw_number_one = number
 
     def get_raw_number_one(self):
         return self.raw_number_one
-
 
     def set_raw_number_two(self, number):
         self.raw_number_two = number
@@ -76,7 +78,7 @@ class Parser:
         if self.filename == "" or not self.filename.lower().endswith(".txt"):
             return
 
-        # ^...$ means the whole string has to match what's inside of them
+        # ^...$ means the whole string has to match what's inside of the ^ and $
         name_regex = re.compile('^(.+):$')
         name_with_roll_regex = re.compile('(.+):rolling 1?d20.*')
         name_with_non_d20_roll_regex = re.compile('(.+):rolling ([0-9]*)d[0-9]+.*')
@@ -297,6 +299,7 @@ class Parser:
 
                 """
                 RAW NUMBER SPACE RAW NUMBER
+                Used for advantage and disadvantage. There is no way to tell from the logs which it was.
                 Has form:
                 20 2
                 """

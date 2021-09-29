@@ -1,0 +1,426 @@
+Gray:
+18
+STEALTH (1)
+Ash:
+8  16
+STEALTH (4)
+Kody M.:
+19  23
+INSIGHT (5)
+Raven Amazing:
+FOR DESCRIPTION ONLY
+True Strike
+Divination Cantrip
+Casting Time: 1 action
+Range: 30 feet
+Target: A target in range
+Components: S
+Duration: Concentration Up to 1 round
+You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target’s defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn’t ended.
+SPELL SAVE DC: 0
+Jake:
+5  11
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+Elote Silver Tongue:
+7
+INTELLIGENCE (1+1)
+8
+SLEIGHT OF HAND (5)
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+1
+Cold
+60 feet
+Frostbite
+Mike:
+10
+60 feet
+Ray of Frost (+5)
+Ash:
+16.14
+INITIATIVE (2.14)
+Mike:
+12.08
+INITIATIVE (-0.92)
+4.12
+INITIATIVE (1.12)
+Gray:
+8.13
+INITIATIVE (1.13)
+Raven Amazing:
+8.18
+INITIATIVE (4.18)
+17.18
+INITIATIVE (4.18)
+Elote Silver Tongue:
+9.17
+INITIATIVE (4.17)
+16.12
+INITIATIVE (1.12)
+Gray:
+7
+120 feet
+Chill Touch (+6)
+Elote Silver Tongue:
+12
+150/600
+Longbow (+3)
++2 to attack goblin kin
+Mike:
+Shield of Faith
+Abjuration 1
+Casting Time: 1 bonus action
+Range: 60 feet
+Target: A creature of your choice within range
+Components: V, S, M (A small parchment with a bit of holy text written on it)
+Duration: Concentration Up to 10 minutes
+A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
+SPELL SAVE DC: 13
+Elote Silver Tongue:rolling d4
+(
+1
+)
+=1
+Raven Amazing:
+22 + 2  17 + 2
+80/320
+Light Crossbow (+7)
+5
+Piercing
+Gray:
+8
+STEALTH (1)
+14
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+9
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+Mike:rolling 2d6
+(
+4
++
+5
+)
+=9
+Ash:
+13
+120 feet
+Chill Touch (+6)
+Elote Silver Tongue:
+4
+150/600
+Longbow (+3)
++2 to attack goblin kin
+Mike:
+12
+Rapier (+6)
+Elote Silver Tongue:rolling d4
+(
+2
+)
+=2
+Raven Amazing:
+25 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+6
+Piercing
+15 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+12
+Piercing
+Gray:
+14
+STEALTH (1)
+5  7
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+Mike:
+13
+30 feet
+Witch Bolt (+5)
+9
+Touch
+Shocking Grasp (+5)
+Raven Amazing:
+13
+Scimitar x2 (+4)
+14
+Scimitar x2 (+4)
+Ash:
+10
+120 feet
+Chill Touch (+6)
+Elote Silver Tongue:
+20
+150/600
+Longbow (+3)
++2 to attack goblin kin
+9
+Piercing
+Mike:
+Divine Sense
+Class: Paladin
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestia⁠l, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampi⁠re Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.
+You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
+Elote Silver Tongue:
+DC12
+Wisdom Save
+2
+Psychic
+60 feet
+Vicious Mockery
+Raven Amazing:
+17 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+11
+Piercing
+Gray:
+9
+STEALTH (1)
+8
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+Mike:
+10
+60 feet
+Ray of Frost (+5)
+Raven Amazing:
+19
+Scimitar x2 (+4)
+8
+Slashing
+14
+Scimitar x2 (+4)
+13
+DEXTERITY SAVE (-1)
+Ash:
+18
+120 feet
+Chill Touch (+6)
+5
+Necrotic
+Elote Silver Tongue:
+6
+150/600
+Longbow (+3)
++2 to attack goblin kin
+16
+Glowing Shortsword (+5)
+Raven Amazing:
+28 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+8
+Piercing
+Gray:
+10
+STEALTH (1)
+5
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+Mike:
+20
+60 feet
+Ray of Frost (+5)
+1
+Cold
+Raven Amazing:
+4
+DEXTERITY SAVE (-1)
+13
+Scimitar x2 (+4)
+19
+Scimitar x2 (+4)
+8
+Slashing
+Ash:
+25
+120 feet
+Chill Touch (+6)
+5
+Necrotic
+Elote Silver Tongue:
+6
+150/600
+Longbow (+3)
++2 to attack goblin kin
+11  5
+WISDOM (1+1)
+4  7
+WISDOM (1+1)
+Anna Tinquil:rolling 1d4+2
+(
+3
+)+2
+=5
+Gray:roll 1d4+4
+rolling 1d4+4
+(
+3
+)+4
+=7
+rolling 1d4+3
+(
+1
+)+3
+=4
+Mike:rolling 1d4+
+(
+2
+)
+=2
+rolling 1d4+3
+(
+4
+)+3
+=7
+Raven Amazing:rolling 1d4 + 2
+rolling 1d4 + 2
+(
+4
+)+2
+=6
+rolling d4
+(
+4
+)
+=4
+11 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+Gray:
+13
+STEALTH (1)
+8  4
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+Mike:
+18
+60 feet
+Ray of Frost (+5)
+3
+Cold
+Raven Amazing:
+16
+Scimitar x2 (+4)
+12
+Scimitar x2 (+4)
+Ash:
+DC14
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+5
+Cold
+60 feet
+Frostbite
+Anna Tinquil:
+18
+150/600
+Longbow (+3)
++2 to attack goblin kin
+7
+Piercing
+Mike:
+7
+Rapier (+6)
+Anna Tinquil:
+7  8
+Glowing Shortsword (+5)
+Raven Amazing:
+18 + 2
+Sword of Edgar Linden-Delian Sword (+10)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+7
+Piercing
+Gray:
+6
+STEALTH (1)
+21
+30/120
+Hand Crossbow (+3)
+Sneak Attack
+4
+Piercing
+Mike:
+11
+60 feet
+Ray of Frost (+5)
+Elote Silver Tongue:
+20
+Glowing Shortsword (+5)
+6
+Piercing
+Mike:
+10
+60 feet
+Ray of Frost (+5)
+Elote Silver Tongue:
+13
+INVESTIGATION (2)
+Raven Amazing:
+6
+INVESTIGATION (3)
+10 + 2
+Rapier (+7)
+8
+Piercing
+Elote Silver Tongue:
+12
+INVESTIGATION (2)
+11
+INVESTIGATION (2)
+Ash:
+5
+INTELLIGENCE (0)
+Elote Silver Tongue:
+10
+INTELLIGENCE (1+1)
+Flabnatz (GM):What do you want to do next? Anna is going to offer you three quests to continue working in her service, if you want. Feel free to discuss while each of you has their one-on-one time with me.
+Search the coasts of Hossak for any sign of invaders and quell whatever havoc you find.
+Root out a traitor?. ...in Port Mettis? ...or find any information on them?
+Investigate the ports Anna’s father last visited to find the same information he did. Pick up the trail and his conclusions. See what else you can find out.
+You are not compelled to take up any one of these. They are just things that Anna wants done and is willing to employ your services to handle. If you have any other designs or desires, that works just as well!
+Elote Silver Tongue:
+22
+INSIGHT (5)
+9
+WISDOM SAVE (1)
+Mike:
+21
+INSIGHT (2)
+6
+WISDOM SAVE (2)
+Ash:
+21
+INSIGHT (2)
+18
+WISDOM SAVE (0)
+Raven Amazing:
+15
+INSIGHT (4)
+16
+WISDOM SAVE (1)

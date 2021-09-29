@@ -1,0 +1,346 @@
+Mike:rolling 1d8
+(
+6
+)
+=6
+Spam the Eagle:
+6
+Healing
+60 feet
+Healing Word
+Show Spell Description
+The Great Gouda:
+14
+INVESTIGATION (3)
+Shady Steve:
+7
+NATURE (3)
+Spam the Eagle:
+11
+HIT DICE (D8+4)
+7
+HIT DICE (D8+4)
+The Great Gouda:
+4
+HIT DICE (D6+1)
+Bummer:
+4
+HIT DICE (D8+3)
+4
+HIT DICE (D8+3)
+Shady Steve:
+7
+HIT DICE (D8+2)
+4
+HIT DICE (D8+2)
+Bummer:
+11
+HIT DICE (D8+3)
+Shady Steve:
+16
+PERCEPTION (1)
+9
+ACROBATICS (4)
+10
+ACROBATICS (4)
+Spam the Eagle:
+7
+PERCEPTION (6)
+10
+PERCEPTION (6)
+22
+PERCEPTION (6)
+18
+INVESTIGATION (1)
+Kitty C. (GM):9-8
+7-6
+5-4
+The Great Gouda:
+Initiative
+Young Ureaus
+Initiative: 8
+Dexterity
+Young Ureaus
+Ability: 6
+Shady Steve:
+15
+PERCEPTION (1)
+Spam the Eagle:
+11
+PERCEPTION (6)
+Shady Steve:
+17
+ACROBATICS (4)
+Spam the Eagle:
+7
+INSIGHT (6)
+Bummer:
+11
+INVESTIGATION (2)
+Shady Steve:
+10
+INVESTIGATION (3)
+Spam the Eagle:
+15
+ACROBATICS (3)
+Shady Steve:
+15
+ACROBATICS (4)
+21
+ACROBATICS (4)
+Bummer:
+22
+ACROBATICS (3)
+Shady Steve:
+10
+ACROBATICS (4)
+Bummer:9-7
+6-4
+3-1
+Shady Steve:
+19
+INSIGHT (3)
+Mike:
+6  19
+INSIGHT (0)
+(To GM):
+9
+PERCEPTION (6)
+The Great Gouda:
+20
+ARCANA (5)
+rolling d100
+(
+76
+)
+=76
+FOR DESCRIPTION ONLY
+Detect Magic
+Divination 1
+Casting Time: 1 action
+Range: Self
+Target: Self
+Components: V, S
+Duration: Concentration Up to 10 minutes
+For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any. The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+SPELL SAVE DC: 13
+16
+PERCEPTION (5)
+21
+PERCEPTION (5)
+Shady Steve:
+16
+PERCEPTION (1)
+24
+STEALTH (4)
+21
+INVESTIGATION (3)
+BRB.
+Back
+Spam the Eagle:
+7
+INITIATIVE (3)
+Animal:
+22
+INITIATIVE (2)
+The Great Gouda:
+13
+INITIATIVE (1)
+Bummer:
+23
+INITIATIVE (3)
+Spam the Eagle:
+9
+INITIATIVE (3)
+Shady Steve:
+16
+INITIATIVE (2)
+The Great Gouda:
+Initiative
+Young Ureaus
+Initiative: 21
+Initiative
+Young Ureaus
+Initiative: 20
+Initiative
+Young Ureaus
+Initiative: 13
+Initiative
+Young Ureaus
+Initiative: 9
+Bummer:
+9
+80/320 
+Shortbow (+5)
+13
+STEALTH (7)
+The Great Gouda:
+DC 13
+Dexterity Save
+6
+Acid
+60 feet
+Acid Splash
+Show Spell Description
+FOR DESCRIPTION ONLY
+Acid Splash
+Conjuration Cantrip
+Casting Time: 1 action
+Range: 60 feet
+Target: One creature within range or two creatures within range that are within 5 feet of each other
+Components: V, S
+Duration: Instantaneous
+You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+SPELL SAVE DC: 13
+Shady Steve:
+19
+30/120 
+Hand Crossbow (+4)
+4
+Piercing
+23
+[](~-McbA_EjRyQle_PDOMr1|repeating_attack_-MgDwSDcN2A02fEdZUdI_attack_dmg) (+4)
+10
+[](~-McbA_EjRyQle_PDOMr1|repeating_attack_-MgDwSDcN2A02fEdZUdI_attack_dmg) (+4)
+15
+[](~-McbA_EjRyQle_PDOMr1|repeating_attack_-MgDwSDcN2A02fEdZUdI_attack_dmg) (+4)
+Animal:
+26
+30/120
+Javelin (+6)
+9 + 5
+Piercing
+Spam the Eagle:
+Entangle
+Conjuration 1
+Casting Time: 1 action
+Range: 90 feet
+Target: A point within range
+Components: V, S
+Duration: Concentration Up to 1 minute
+Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain. A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself. When the spell ends, the conjured plants wilt away.
+SPELL SAVE DC: 14
+Bummer:
+17  9
+80/320 
+Shortbow (+5)
+5
+Sneak
+6
+Piercing
+Animal:rolling 1d20
+(
+20
+)
+=20
+rolling 2d8
+(
+7
++
+2
+)
+=9
+The Great Gouda:
+24
+120 feet
+Fire Bolt (+5)
+Show Spell Description
+7
+Fire
+Bummer:
+6  11
+PERCEPTION (2)
+Spam the Eagle:
+23
+PERCEPTION (6)
+Starry Form Wildshape
+Class: Circle off Stars
+At 2nd level, you gain the ability to harness constellations’ power to alter your form. As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast.
+
+While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), are incapacitated, die, or use this feature again.
+
+Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form:
+
+Archer. A constellation of an archer appears on you. When you activate this form, and as a bonus action on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals radiant damage equal to 1d8 + your Wisdom modifier.
+
+Chalice. A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores hit points to a creature, you or another creature within 30 feet of you can regain hit points equal to 1d8 + your Wisdom modifier.
+
+Dragon. A constellation of a wise dragon appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain concentration on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
+rolling 1d20+6
+(
+7
+)+6
+=13
+Create Bonfire
+Conjuration
+Casting Time: 1 action
+Range: 60 ft
+Components: V, S
+Duration: Concentration 1 minute
+You create a bonfire on ground that you can see within range. Until the spells ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it enters the bonfire's space for the first time on a turn or ends its turn there.
+The bonfire ignites flammable objects in its area that aren't being worn or carried.
+At Higher Levels. The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+SPELL SAVE DC: 14
+rolling 1d8
+(
+5
+)
+=5
+Bummer:
+9
+80/320 
+Shortbow (+5)
+The Great Gouda:
+DC 13
+Dexterity Save
+3
+Acid
+60 feet
+Acid Splash
+Show Spell Description
+Shady Steve:
+7
+80/320 
+Shortbow (+4)
+20
+STEALTH (4)
+Spam the Eagle:
+7
+CONSTITUTION SAVE (4)
+rolling 1d20+6
+(
+9
+)+6
+=15
+rolling 1d8+4
+(
+8
+)+4
+=12
+rolling 1d8
+(
+3
+)
+=3
+Bummer:
+21
+80/320 
+Shortbow (+5)
+6
+Piercing
+19
+STEALTH (7)
+Animal:
+13
+ 
+Greataxe Guitar (+6)
+The Great Gouda:
+21
+120 feet
+Fire Bolt (+5)
+Show Spell Description
+9
+Fire
+Animal:
+17
+PERCEPTION (0)

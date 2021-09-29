@@ -1,0 +1,902 @@
+Spam the Eagle:
+7
+PERCEPTION (6)
+Mike:
+19
+INITIATIVE (2)
+The Great Gouda:
+10
+INITIATIVE (1)
+Bummer:
+7
+INITIATIVE (3)
+Spam the Eagle:
+12
+INITIATIVE (3)
+Bummer:
+8
+INITIATIVE (3)
+Lonzo:
+10
+INITIATIVE (1)
+Animal:
+19
+Drumsticks (+6)
+2
+Rage
+5
+Bludgeoning
+Spam the Eagle:
+Faerie Fire
+Evocation 1
+Casting Time: 1 action
+Range: 60 feet
+Target: Each object in a 20-foot cube within range
+Components: V
+Duration: Concentration Up to 1 minute
+Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius. Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can’t benefit from being invisible.
+SPELL SAVE DC: 14
+Lonzo:
+6  11
+60 feet
+Ray of Frost (+3)
+Show Spell Description
+6
+Cold
+The Great Gouda:-M_3MsfYTWHZsKbHhVf-|repeating_attack_-Ma0Yb9ZTlZjOOnOJUfb_spelldesc_link
+Lonzo:
+FOR DESCRIPTION ONLY
+Ray of Frost
+Evocation Cantrip
+Casting Time: 1 action
+Range: 60 feet
+Target: A creature within range
+Components: V, S
+Duration: Instantaneous
+A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
+SPELL SAVE DC: 11
+The Great Gouda:
+7
+60 feet
+Ray of Frost (+5)
+Show Spell Description
+Bummer:
+13
+80/320
+Shortbow (+5)
+Animal:
+6  24
+STRENGTH (4)
+The Great Gouda:
+18
+20/60
+Dagger (+3)
+3
+Piercing
+Spam the Eagle:
+Shillelagh
+Transmutation Cantrip
+Casting Time: 1 bonus action
+Range: Touch
+Target: The wood of a club or quarterstaff you are holding
+Components: V, S, M (Mistletoe, a shamrock leaf, and a club or quarterstaff)
+Duration: 1 minute
+The wood of a club or quarterstaff you are holding is imbued with nature’s power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon.
+SPELL SAVE DC: 14
+15
+WISDOM SAVE (6)
+7
+WISDOM SAVE (6)
+rolling 1d8+4
+(
+2
+)+4
+=6
+Lonzo:
+FOR DESCRIPTION ONLY
+True Strike
+Divination Cantrip
+Casting Time: 1 action
+Range: 30 feet
+Target: A target in range
+Components: S
+Duration: Concentration Up to 1 round
+You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target’s defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn’t ended.
+SPELL SAVE DC: 11
+The Great Gouda:
+DC13
+Dexterity Save
+4
+Acid
+60 feet
+Acid Splash
+Show Spell Description
+Lonzo:
+Light
+Evocation Cantrip
+Casting Time: 1 action
+Range: Touch
+Target: One object that is no larger than 10 feet in any dimension
+Components: V, M (A firefly or phosphorescent moss)
+Duration: 1 hour
+You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action. If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
+SPELL SAVE DC: 11
+Kitty C. (GM):
+FOR DESCRIPTION ONLY
+Acid Splash
+Conjuration Cantrip
+Casting Time: 1 action
+Range: 60 feet
+Target: One creature within range or two creatures within range that are within 5 feet of each other
+Components: V, S
+Duration: Instantaneous
+You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+SPELL SAVE DC: 13
+Bummer:
+11
+Rapier (+5)
+3
+Sneak
+11
+Piercing
+Animal:
+22  20
+ATHLETICS (6)
+10
+Longsword (Two-Handed) (+6)
+11  15
+STRENGTH (4)
+Lonzo:Round down unless otherwise stipulated:
+https://rpg.stackexchange.com/questions/59008/how-is-a-damage-rounded-for-damage-resistance
+But God only knows :)
+Spam the Eagle:
+7
+WISDOM SAVE (6)
+Kitty C. (GM):ah yes, god only knows :D
+Lonzo:
+DC11
+Dexterity Save
+6
+Acid
+60 feet
+Acid Splash
+Show Spell Description
+FOR DESCRIPTION ONLY
+Acid Splash
+Conjuration Cantrip
+Casting Time: 1 action
+Range: 60 feet
+Target: One creature within range or two creatures within range that are within 5 feet of each other
+Components: V, S
+Duration: Instantaneous
+You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+SPELL SAVE DC: 11
+The Great Gouda:
+8
+120 feet
+Fire Bolt (+5)
+Show Spell Description
+10
+120 feet
+Fire Bolt (+5)
+Show Spell Description
+Bummer:
+25  9
+80/320
+Shortbow (+5)
+4 + 1
+Sneak
+8 + 1
+Piercing
+Lonzo:Those are some garbage extra dice rolls
+Bummer::(
+Animal:
+10  10
+Longsword (Two-Handed) (+6)
+Lonzo:So does that succeed???
+Spam the Eagle:
+11
+WISDOM SAVE (6)
+Lonzo:
+13
+60 feet
+Ray of Frost (+3)
+Show Spell Description
+(From Kitty C. (GM)): fyi, this is pretty much the end of my plan :D once this combat finishes
+(To GM): figured as much!
+The Great Gouda:
+7
+120 feet
+Fire Bolt (+5)
+Show Spell Description
+Bummer:
+11
+80/320
+Shortbow (+5)
+Lonzo:18 high
+Animal:
+21
+Longsword (Two-Handed) (+6)
+2
+Rage
+13
+Slashing
+Bummer:-M_3MfaewuhMTN_3kaO9|repeating_attack_-MbiQwbAPQV7nZMReFv-_attack_dmg
+Animal:
+17  21
+STRENGTH (4)
+Spam the Eagle:
+17
+WISDOM SAVE (6)
+Lonzo:
+6
+60 feet
+Ray of Frost (+3)
+Show Spell Description
+The Great Gouda:
+16
+120 feet
+Fire Bolt (+5)
+Show Spell Description
+Bummer:
+16
+80/320
+Shortbow (+5)
+Animal:
+20
+Longsword (Two-Handed) (+6)
+2
+Rage
+14
+Slashing
+Lonzo:"spoofs out"
+Spam the Eagle:
+17
+WISDOM SAVE (6)
+Lonzo:
+True Strike
+Divination Cantrip
+Casting Time: 1 action
+Range: 30 feet
+Target: A target in range
+Components: S
+Duration: Concentration Up to 1 round
+You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target’s defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn’t ended.
+SPELL SAVE DC: 11
+The Great Gouda:
+25
+120 feet
+Fire Bolt (+5)
+Show Spell Description
+8 + 5
+Fire
+Bummer:
+24
+80/320
+Shortbow (+5)
+3
+Sneak
+4
+Piercing
+Animal:
+22
+Greataxe Guitar (+6)
+2
+Rage
+6
+Slashing
+Lonzo:
+Detect Magic
+Divination 1
+Casting Time: 1 action
+Range: Self
+Target: Self
+Components: V, S
+Duration: Concentration Up to 10 minutes
+For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any. The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+SPELL SAVE DC: 11
+Animal:
+19  24
+ATHLETICS (6)
+Lonzo:time lantern!
+hand to the right!
+see above
+Animal:
+24  7
+ATHLETICS (6)
+rolling 1d6
+(
+6
+)
+=6
+Lonzo:
+23
+ATHLETICS (3)
+The Great Gouda:
+14
+ATHLETICS (0)
+Flabnatz:
+20
+ATHLETICS (1)
+Bummer:
+23
+ATHLETICS (3)
+Lonzo:what does purple light do!?
+Flabnatz:
+DC13
+Wisdom Save
+3
+Psychic
+60 feet
+Vicious Mockery
+Show Spell Description
+Bummer:-M_3MwKxzjWaGIv1Zqwk|repeating_attack_-MbiZPsyzGjGUGopWKEf_spelldesc_link
+Lonzo:-M_3MwKxzjWaGIv1Zqwk|repeating_attack_-MbiZPsyzGjGUGopWKEf_spelldesc_link
+Kitty C. (GM):
+Wisdom
+Lemma Kertwyn
+Ability: 18
+Flabnatz:
+FOR DESCRIPTION ONLY
+Vicious Mockery
+Enchantment Cantrip
+Casting Time: 1 action
+Range: 60 feet
+Target: A creature you can see and that can hear you within range
+Components: V
+Duration: Instantaneous
+You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
+SPELL SAVE DC: 0
+25
+PERFORMANCE (5)
+Animal:
+4
+PERFORMANCE (2)
+Lonzo:
+14
+PERFORMANCE (3)
+6
+INITIATIVE (1)
+The Great Gouda:
+14
+INITIATIVE (1)
+Bummer:
+17
+INITIATIVE (3)
+Animal:
+3
+INITIATIVE (2)
+Bummer:
+19
+INITIATIVE (3)
+Flabnatz:
+9.1
+INITIATIVE (0.1)
+Kitty C. (GM):
+Initiative
+Lemma Kertwyn
+Initiative: 18
+Flabnatz:Purple, Red, Off, Blue
+Kitty C. (GM):
+Dream Kiss
+Lemma Kertwyn
+Attack: 11
+Lonzo:RED LIGHT
+Flabnatz:GREEN LIGHT
+The Great Gouda:
+9
+120 feet
+Fire Bolt (+5)
+Show Spell Description
+Kitty C. (GM):rolling 1d6
+(
+6
+)
+=6
+The Great Gouda:
+15
+ATHLETICS (0)
+Lonzo:BLUE LIGHT
+Kitty C. (GM):
+Rebuff
+Lemma Kertwyn
+Attack: 8
+Animal:
+11
+Drumsticks (+6)
+Bummer:
+18
+80/320
+Shortbow (+5)
+2
+Sneak
+9
+Piercing
+Kitty C. (GM):
+Dream Kiss
+Lemma Kertwyn
+Attack: 5
+Dream Kiss
+Lemma Kertwyn
+Attack: 7
+Dream Kiss
+Lemma Kertwyn
+Attack: 20
+Animal:
+16
+WISDOM SAVE (0)
+Kitty C. (GM):rolling 1d6
+(
+3
+)
+=3
+The Great Gouda:
+22
+120 feet
+Fire Bolt (+5)
+Show Spell Description
+9
+Fire
+Lonzo:
+Mage Hand
+Conjuration Cantrip
+Casting Time: 1 action
+Range: 30 feet
+Target: A point you choose within range
+Components: V, S
+Duration: 1 minute
+A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again. You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it. The hand can’t attack, activate magic items, or carry more than 10 pounds.
+SPELL SAVE DC: 11
+22
+60 feet
+Ray of Frost (+3)
+Show Spell Description
+8
+Cold
+FOR DESCRIPTION ONLY
+Ray of Frost
+Evocation Cantrip
+Casting Time: 1 action
+Range: 60 feet
+Target: A creature within range
+Components: V, S
+Duration: Instantaneous
+A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
+SPELL SAVE DC: 11
+Flabnatz:
+3.1
+INITIATIVE (0.1)
+13
+20/60
+Dagger (+3)
+5
+Piercing
+Bummer:
+22
+80/320
+Shortbow (+5)
+1
+Sneak
+7
+Piercing
+Kitty C. (GM):
+Rebuff
+Lemma Kertwyn
+Attack: 5
+Dream Kiss
+Lemma Kertwyn
+Attack: 20
+Animal:
+17
+WISDOM SAVE (0)
+The Great Gouda:
+15
+WISDOM SAVE (5)
+Kitty C. (GM):
+Damage: 6psychic
+Target must save on a DC 12 WIS saving throw or fall unconscious for 1 minute or until it takes damage or is shaken awake. Recharge 6 on a d6.
+The Great Gouda:
+DC13
+Dexterity Save
+1
+Acid
+60 feet
+Acid Splash
+Show Spell Description
+Kitty C. (GM):
+Dexterity
+Lemma Kertwyn
+Ability: 22
+Flabnatz:
+6
+20/60
+Dagger (+3)
+Lonzo:
+20
+60 feet
+Ray of Frost (+3)
+Show Spell Description
+1
+Cold
+FOR DESCRIPTION ONLY
+Ray of Frost
+Evocation Cantrip
+Casting Time: 1 action
+Range: 60 feet
+Target: A creature within range
+Components: V, S
+Duration: Instantaneous
+A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
+SPELL SAVE DC: 11
+Animal:
+10
+Drumsticks (+6)
+Bummer:
+23
+80/320
+Shortbow (+5)
+1
+Sneak
+9
+Piercing
+Kitty C. (GM):
+Rebuff
+Lemma Kertwyn
+Attack: 11 | 13
+rolling 1d4+2
+(
+3
+)+2
+=5
+The Great Gouda:
+14
+DEATH SAVE (0)
+Bummer:
+23
+80/320
+Shortbow (+5)
+6
+Sneak
+5
+Piercing
+Flabnatz:
+FOR DESCRIPTION ONLY
+Cure Wounds
+Evocation 1
+Casting Time: 1 action
+Range: Touch
+Target: A creature you touch
+Components: V, S
+Duration: Instantaneous
+A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the Healing increases by 1d8 for each slot level above 1st.
+SPELL SAVE DC: 0
+Kitty C. (GM):
+7
+Healing
+Touch
+Cure Wounds
+Show Spell Description
+Flabnatz:
+10
+Healing
+Touch
+Cure Wounds
+Show Spell Description
+1,1,1
+1,1,0
+1,0,0
+1,0,1
+0,0,1
+Flabnatz:0,1,1
+0,0,0
+0,1,0
+Bummer:111=white
+110=teal?
+101=purple
+011=yellow
+010=green
+001=red
+Bummer:100=blue
+000=the darkest night
+Flabnatz:
+DC14
+Wisdom Save
+1
+Psychic
+60 feet
+Vicious Mockery
+Show Spell Description
+Kitty C. (GM):
+Wisdom
+Lemma Kertwyn
+Ability: 8
+Animal:
+14
+INITIATIVE (2)
+16
+INITIATIVE (2)
+The Great Gouda:
+3
+INITIATIVE (1)
+Flabnatz:
+16.11
+INITIATIVE (0.11)
+Bummer:
+9
+INITIATIVE (3)
+Flabnatz:
+22
+30/120
+Hand Crossbow (+2)
+4 + 1
+Piercing
+Animal:
+22
+30/120
+Javelin (+6)
+8
+Piercing
+9
+WISDOM SAVE (0)
+The Great Gouda:
+11
+120 feet
+Fire Bolt (+5)
+Show Spell Description
+Animal:
+12
+30/120
+Javelin (+6)
+7
+Piercing
+16
+30/120
+Javelin (+6)
+Kitty C. (GM):rolling 1d6
+(
+1
+)
+=1
+Bummer:
+10
+WISDOM SAVE (0)
+The Great Gouda:
+DC13
+Dexterity Save
+5
+Acid
+60 feet
+Acid Splash
+Show Spell Description
+FOR DESCRIPTION ONLY
+Acid Splash
+Conjuration Cantrip
+Casting Time: 1 action
+Range: 60 feet
+Target: One creature within range or two creatures within range that are within 5 feet of each other
+Components: V, S
+Duration: Instantaneous
+You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+SPELL SAVE DC: 13
+Flabnatz:
+14
+30/120
+Hand Crossbow (+2)
+4
+Piercing
+Bummer:
+17
+80/320
+Shortbow (+5)
+1
+Sneak
+8
+Piercing
+Kitty C. (GM):
+Rebuff
+Lemma Kertwyn, Major
+Attack: 13 | 11
+The Great Gouda:
+17
+60 feet
+Ray of Frost (+5)
+Show Spell Description
+12
+60 feet
+Ray of Frost (+5)
+Show Spell Description
+5
+Cold
+Animal:
+23
+Greataxe Guitar (+6)
+2
+Rage
+10
+Slashing
+Kitty C. (GM):rolling 1d6
+(
+5
+)
+=5
+Rebuff
+Lemma Kertwyn, Major
+Attack: 13 | 15
+The Great Gouda:
+13
+120 feet
+Fire Bolt (+5)
+Show Spell Description
+25
+120 feet
+Fire Bolt (+5)
+Show Spell Description
+3
+Fire
+Animal:
+7
+Greataxe Guitar (+6)
+Bummer:
+20
+80/320
+Shortbow (+5)
+3
+Sneak
+4
+Piercing
+Kitty C. (GM):rolling 1d6
+(
+5
+)
+=5
+Rebuff
+Lemma Kertwyn, Major
+Attack: 14 | 13
+Damage: 10bludgeoning
+rolling 1d6
+(
+5
+)
+=5
+The Great Gouda:
+6
+DEATH SAVE (0)
+Flabnatz:
+20
+DEATH SAVE (0)
+FOR DESCRIPTION ONLY
+Hideous Laughter
+Enchantment 1
+Casting Time: 1 action
+Range: 30 feet
+Target: A creature of your choice that you can see within range
+Components: V, S, M (Tiny tarts and a feather that is waved in the air)
+Duration: Concentration Up to 1 minute
+A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn’t affected. At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it’s triggered by damage. On a success, the spell ends.
+SPELL SAVE DC: 0
+Kitty C. (GM):
+Wisdom
+Lemma Kertwyn, Major
+Ability: 18
+Animal:
+20
+Greataxe Guitar (+6)
+2
+Rage
+5
+Slashing
+Bummer:
+7
+80/320
+Shortbow (+5)
+Kitty C. (GM):rolling 1d6
+(
+1
+)
+=1
+Rebuff
+Lemma Kertwyn, Major
+Attack: 24
+Damage: 9bludgeoning
+Flabnatz:
+20
+DEATH SAVE (0)
+Animal:all rise, muthafucka!
+Kitty C. (GM):rolling 1d6
+(
+2
+)
+=2
+Animal:hit
+The Great Gouda:
+19
+DEATH SAVE (0)
+Flabnatz:
+7
+DEATH SAVE (0)
+9
+DEATH SAVE (0)
+8
+DEATH SAVE (0)
+13
+Longsword (Two-Handed) (+3)
+2
+Slashing
+Animal:
+22
+Greataxe Guitar (+6)
+2
+Rage
+12
+Slashing
+Bummer:
+24
+80/320
+Shortbow (+5)
+2
+Sneak
+4
+Piercing
+Kitty C. (GM):rolling 1d6
+(
+2
+)
+=2
+Rebuff
+Lemma Kertwyn, Major
+Attack: 24
+Damage: 12bludgeoning
+rolling 1d6
+(
+5
+)
+=5
+The Great Gouda:
+8
+DEATH SAVE (0)
+Flabnatz:
+14
+Longsword (Two-Handed) (+3)
+5
+Slashing
+Animal:
+17
+MEDICINE (0)
+The Great Gouda:
+15
+DEATH SAVE (0)
+19
+DEATH SAVE (0)
+Bummer:
+6
+80/320
+Shortbow (+5)
+Kitty C. (GM):rolling 1d6
+(
+1
+)
+=1
+Bummer:
+6
+80/320
+Shortbow (+5)
+Kitty C. (GM):rolling 1d6
+(
+5
+)
+=5
+Animal:
+22
+Greataxe Guitar (+6)
+1/r6
+r /1d6
+rolling 1d6
+(
+1
+)
+=1
+2
+Rage
+8
+Slashing

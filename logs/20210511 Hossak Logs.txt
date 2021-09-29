@@ -1,0 +1,356 @@
+Jake:
+13
+INSIGHT (2)
+Raven Amazing:
+17
+INVESTIGATION (3)
+16
+INVESTIGATION (3)
+Kody M.:Borscht
+(From Flabnatz (GM)): please remind me to set a timer for when you've learned elvish
+Kody M.:
+8
+INVESTIGATION (2)
+Mike:
+8  5
+INSIGHT (2)
+Kody M.:
+12
+PERFORMANCE (4)
+13
+INSIGHT (5)
+(To GM): going to use enhance ability to avoid getting drunk - enhance consittution
+(From Flabnatz (GM)): done
+(From Flabnatz (GM)): gm roll me your second roll at advantage
+(To GM): will subtle cast enhance ability with the feather if he accepts
+(From Flabnatz (GM)): or would you rather to have the rolls public? more about does Kody know or not :P
+(To GM): hidden advantage
+(From Flabnatz (GM)): baller
+Kody M.:
+12
+PERFORMANCE (4)
+Mike:
+11
+PERFORMANCE (3)
+Ashlee Umber:
+11
+PERFORMANCE (4)
+Raven Amazing:
+5
+PERFORMANCE (-1)
+Kody M.:
+13
+INSIGHT (5)
+(To GM): I'm not doing anything
+(To GM): not for shaking
+(From Flabnatz (GM)): give me a deception roll at advantage to gm
+(To GM):
+14
+DECEPTION (6)
+(From Flabnatz (GM)): as you plan to do stuff
+(To GM):
+10
+DECEPTION (6)
+Raven Amazing:
+18
+SLEIGHT OF HAND (4)
+(To GM): cast enhance ability there
+Kody M.:
+5
+CONSTITUTION (2+1)
+Raven Amazing:
+15
+PERCEPTION (3)
+(From Flabnatz (GM)): yup
+Raven Amazing:
+12
+SLEIGHT OF HAND (4)
+Ashlee Umber:
+20  6
+PERCEPTION (0)
+Mike:
+17
+PERCEPTION (0)
+Ashlee Umber:
+23  5
+CONSTITUTION SAVE (4)
+(To GM):
+CONSTITUTION SAVE (4)
+Kody M.:
+21
+CONSTITUTION (2+1)
+4
+CONSTITUTION (2+1)
+(From Flabnatz (GM)): normal roll open and then normal roll to gm
+Raven Amazing:You mean raven rings?
+Mike:
+18
+CHARISMA SAVE (5)
+Raven Amazing:
+6
+CHARISMA SAVE (-1)
+Ashlee Umber:
+19
+CHARISMA SAVE (6)
+Kody M.:
+15
+CHARISMA SAVE (4)
+Ashlee Umber:
+1
+ARCANA (0)
+19
+CONSTITUTION SAVE (4)
+(To GM):
+15
+CONSTITUTION SAVE (4)
+Ashlee Umber:
+10
+WISDOM SAVE (0)
+Raven Amazing:
+12
+WISDOM SAVE (1)
+Ashlee Umber:rolling 1d100
+(
+40
+)
+=40
+Flabnatz (GM):https://www.5esrd.com/database/creature/pixie/
+Elote Silver Tongue:https://www.5esrd.com/database/creature/pixie/
+Ashlee Umber:rolling 1d20+3
+(
+6
+)+3
+=9
+rolling 1d20+2
+(
+1
+)+2
+=3
+Flabnatz (GM):https://www.5esrd.com/database/spell/confusion/
+Mike:
+22
+WISDOM SAVE (2)
+Raven Amazing:
+14
+WISDOM SAVE (1)
+19
+WISDOM SAVE (1)
+Mike:
+5
+WISDOM SAVE (2)
+Elote Silver Tongue:
+18
+WISDOM SAVE (1)
+14
+PERSUASION (4)
+11
+DECEPTION (6)
+Mike:
+8
+INSIGHT (2)
+Ashlee Umber:
+9
+PERSUASION (6)
+16
+CONSTITUTION SAVE (4)
+(To GM):
+22
+CONSTITUTION SAVE (4)
+Ashlee Umber:
+20
+PERCEPTION (0)
+Elote Silver Tongue:
+13
+PERCEPTION (3)
+25
+SLEIGHT OF HAND (7)
+Ashlee Umber:
+17
+WISDOM SAVE (0)
+Elote Silver Tongue:
+10
+WISDOM SAVE (1)
+Flabnatz (GM):rolling d6
+(
+5
+)
+=5
+rolling d6
+(
+3
+)
+=3
+Elote Silver Tongue:
+7
+CHARISMA SAVE (4)
+Ashlee Umber:
+16
+CHARISMA SAVE (6)
+Raven Amazing:
+11
+CHARISMA SAVE (-1)
+Mike:
+6
+CHARISMA SAVE (5)
+Elote Silver Tongue:
+4
+WISDOM SAVE (1)
+(From Flabnatz (GM)): you also get a sense of some amorphous evil presence within his mind. Nothing coherent or focused, but clearly present
+Ashlee Umber:
+11
+CONSTITUTION SAVE (4)
+Elote Silver Tongue:
+18
+CONSTITUTION (2+1)
+(To GM):
+5
+CONSTITUTION SAVE (4)
+Elote Silver Tongue:
+4
+CONSTITUTION (2+1)
+Ashlee Umber:
+16
+CONSTITUTION SAVE (4)
+(To GM):
+17
+CONSTITUTION SAVE (4)
+Elote Silver Tongue:Carry me bitches
+Ashlee Umber:good: friendly npc that we could buy thieves tools off of
+bad: more shadows
+Raven Amazing:good: supplies/campfire with ally
+bad: weird status effects that we need to get taken care of
+Mike:good: find clue to what happened to Delia (ruins, artifact, storyteller)
+bad: animals steal our provisions and we have to forage
+Elote Silver Tongue:good: Someone with word of troubling spots of chaos
+bad: kidnapped and detained
+Flabnatz (GM):rolling 4d12
+(
+4
++
+7
++
+9
++
+4
+)
+=24
+rolling 5d12
+(
+7
++
+9
++
+12
++
+4
++
+7
+)
+=39
+rolling 5d12
+(
+9
++
+4
++
+2
++
+2
++
+12
+)
+=29
+rolling 5d12
+(
+8
++
+4
++
+2
++
+1
++
+7
+)
+=22
+rolling 5d12
+(
+11
++
+1
++
+7
++
+8
++
+4
+)
+=31
+rolling 5d12
+(
+10
++
+9
++
+3
++
+3
++
+1
+)
+=26
+Flabnatz (GM):rolling 5d12
+(
+2
++
+1
++
+7
++
+4
++
+11
+)
+=25
+rolling 5d12
+(
+3
++
+3
++
+11
++
+6
++
+4
+)
+=27
+Mike:rolling 1d12
+(
+5
+)
+=5
+Elote Silver Tongue:rolling d4
+(
+1
+)
+=1
+Raven Amazing:
+7
+PERCEPTION (3)
+22.19
+INITIATIVE (4.19)
+Elote Silver Tongue:
+22.17
+INITIATIVE (4.17)
+Ashlee Umber:
+14.14
+INITIATIVE (2.14)
+Mike:
+0.08
+INITIATIVE (-0.92)
+Raven Amazing:rolling 1d10+3
+(
+1
+)+3
+=4

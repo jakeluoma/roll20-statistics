@@ -1,0 +1,375 @@
+Kody M.:
+FOR DESCRIPTION ONLY
+Silence
+Illusion 2
+Casting Time: 1 action
+Range: 120 feet
+Target: 20-foot-radius sphere centered on a point you choose within range
+Components: V, S
+Duration: Concentration Up to 10 minutes
+For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
+SPELL SAVE DC: 13
+Flabnatz (GM):rolling d20
+(
+20
+)
+=20
+rolling d20
+(
+17
+)
+=17
+Mike:
+10.08
+INITIATIVE (-0.92)
+Kody M.:
+19.17
+INITIATIVE (4.17)
+Flabnatz (GM):rolling d20
+(
+20
+)
+=20
+Jake:
+Heavy Crossbow
+Veteran
+Attack: 21
+Damage: 8piercing
+Raven Amazing:
+Multiattack
+Veteran
+The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
+Longsword
+Veteran
+Attack: 16
+Longsword
+Veteran
+Attack: 24
+Shortsword
+Veteran
+Attack: 16
+Damage: 7slashing
+one handed
+Kody M.:
+DC13
+Constitution Save
+9
+Thunder
+Higher Level Cast
+7
+Thunder
+Self (15-foot cube)
+Thunderwave
+Show Spell Description
+FOR DESCRIPTION ONLY
+Thunderwave
+Evocation 1
+Casting Time: 1 action
+Range: Self (15-foot cube)
+Target: Self (15-foot cube)
+Components: V, S
+Duration: Instantaneous
+A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn’t pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell’s effect, and the spell emits a thunderous boom audible out to 300 feet.
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+SPELL SAVE DC: 13
+Flabnatz (GM):rolling d20
+(
+8
+)
+=8
+Varnōk Todorim:
+Shield of Faith
+Abjuration 1
+Casting Time: 1 bonus action
+Range: 60 feet
+Target: A creature of your choice within range
+Components: V, S, M (A small parchment with a bit of holy text written on it)
+Duration: Concentration Up to 10 minutes
+A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
+SPELL SAVE DC: 14
+22
+Hamberd Hammer (One-Handed) (+7)
+2
+Dueling Style
+10
+Bludgeoning
+11
+Hamberd Axe (One-Handed) (+7)
+16  20
+PERCEPTION (0)
+Flabnatz (GM):rolling 1d20 + 10
+(
+6
+)+10
+=16
+rolling 1d20 + 10
+(
+4
+)+10
+=14
+Jake:
+Wisdom
+Veteran
+Ability: 10
+Varnōk Todorim:
+20
+WISDOM SAVE (3)
+Kody M.:
+8
+WISDOM SAVE (1)
+Raven Amazing:
+Initiative
+Veteran
+Initiative: 10.13
+Wisdom
+Veteran
+Ability: 15
+Vivian:
+Heavy Crossbow
+Veteran
+Attack: 20
+Damage: 3piercing
+Raven Amazing:
+Longsword
+Veteran
+Attack: 23
+Wisdom
+Veteran
+Ability: 12
+Vivian:
+Wisdom
+Veteran
+Ability: 10
+Raven Amazing:
+Damage: 7slashing
+two handed
+Kody M.:
+FOR DESCRIPTION ONLY
+Mage Hand
+Conjuration Cantrip
+Casting Time: 1 action
+Range: 30 feet
+Target: A point you choose within range
+Components: V, S
+Duration: 1 minute
+A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again. You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it. The hand can’t attack, activate magic items, or carry more than 10 pounds.
+SPELL SAVE DC: 13
+rolling d20
+(
+8
+)
+=8
+7
+WISDOM SAVE (1)
+Varnōk Todorim:
+12
+INSIGHT (3)
+Flabnatz (GM):rolling 1d20 + 10
+(
+12
+)+10
+=22
+rolling 1d20 + 10
+(
+15
+)+10
+=25
+rolling 3d8 + 6
+(
+5
++
+1
++
+8
+)+6
+=20
+rolling 3d8 + 6
+(
+4
++
+3
++
+7
+)+6
+=20
+Vivian:
+Charisma
+Veteran
+Ability: 20 | 16
+Heavy Crossbow
+Veteran
+Attack: 12
+Wisdom
+Veteran
+Ability: 20
+Raven Amazing:
+Wisdom
+Veteran
+Ability: 2
+Kody M.:
+8
+WISDOM SAVE (1)
+Flabnatz (GM):rolling 1d20 + 10
+(
+10
+)+10
+=20
+rolling 1d20 + 10
+(
+8
+)+10
+=18
+rolling 3d8 + 6
+(
+2
++
+4
++
+7
+)+6
+=19
+rolling 3d8 + 6
+(
+8
++
+4
++
+5
+)+6
+=23
+Raven Amazing:
+Heavy Crossbow
+Veteran
+Attack: 21
+Damage: 5piercing
+Wisdom
+Veteran
+Ability: 4
+Kody M.:
+12
+1 Charge Sword (+7)
+5
+WISDOM SAVE (1)
+I quit
+Varnōk Todorim:
+8
+HISTORY (-1)
+Flabnatz (GM):rolling 1d20 + 10
+(
+16
+)+10
+=26
+rolling 1d20 + 10
+(
+9
+)+10
+=19
+rolling 3d8 + 6
+(
+7
++
+2
++
+2
+)+6
+=17
+rolling 3d8 + 6
+(
+2
++
+8
++
+7
+)+6
+=23
+Vivian:
+Perception
+Veteran
+Skill: 13
+Raven Amazing:
+Wisdom
+Veteran
+Ability: 15
+Kody M.:
+14
+DEATH SAVE (0)
+4
+DEATH SAVE (0)
+Varnōk Todorim:
+FOR DESCRIPTION ONLY
+Find Steed
+Conjuration 2
+Casting Time: 10 minutes
+Range: 30 feet
+Target: An unoccupied space within range
+Components: V, S
+Duration: Instantaneous
+You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes on a form that you choose: a warhorse, a pony, a camel, an elk, or a mastiff. (Your GM might allow other animals to be summoned as steeds.) The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of its normal type. Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak. Your steed serves you as a mount, both in combat and out, and you have an instinctive bond with it that allows you to fight as a seamless unit. While mounted on your steed, you can make any spell you cast that targets only you also target your steed. When the steed drops to 0 hit points, it disappears, leaving behind no physical form. You can also dismiss your steed at any time as an action, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its hit point maximum. While your steed is within 1 mile of you, you can communicate with it telepathically. You can’t have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear.
+SPELL SAVE DC: 14
+rolling 1d4
+(
+2
+)
+=2
+Kody M.:
+1
+Healing
+Higher Level Cast
+10
+Healing
+Touch
+Cure Wounds
+Show Spell Description
+Varnōk Todorim:
+8
+SURVIVAL (0)
+Kody M.:
+7
+HIT DICE (D8+2)
+9
+HIT DICE (D8+2)
+Flabnatz (GM):rolling d20
+(
+5
+)
+=5
+Kody M.:"This is the story of how Elote murders Raven"
+Raven Amazing:Only if that story is actually a song sung in a round
+Ashlee Umber:
+2  3
+SURVIVAL (0)
+Kody M.:
+19
+SURVIVAL (2)
+8
+SURVIVAL (2)
+Ashlee Umber:
+11
+PERCEPTION (0)
+Raven Amazing:
+24
+PERCEPTION (4)
+Kody M.:
+5
+PERCEPTION (4)
+Varnōk Todorim:
+7
+PERCEPTION (0)
+Raven Amazing:
+22 + 2
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+7
+Piercing
+23.2
+INITIATIVE (4.2)
+Elote Silver Tongue:
+20.17
+INITIATIVE (4.17)
+Ashlee Umber:
+15.14
+INITIATIVE (2.14)
+Varnōk Todorim:
+7.08
+INITIATIVE (-0.92)

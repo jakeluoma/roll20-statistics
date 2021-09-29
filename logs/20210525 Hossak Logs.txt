@@ -1,0 +1,206 @@
+Raven Amazing:rolling 1d10+3
+(
+1
+)+3
+=4
+rolling 2d4
+(
+4
++
+1
+)
+=5
+rolling d4
+(
+3
+)
+=3
+11
+STEALTH (4)
+Mike:rolling 2d6
+(
+2
++
+1
+)
+=3
+Kody M.:
+16  10
+STEALTH (5)
+16  7
+PERCEPTION (3)
+Mike:
+7
+CONSTITUTION SAVE (2)
+Ashlee Umber:
+11
+CONSTITUTION SAVE (4)
+12  20
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+25  12
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+10
+16
+Kody M.:
+18
+INTIMIDATION (3)
+Ashlee Umber:
+10  13
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+9  7
+120 feet
+Chaos Bolt (+6)
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type. 1 Acid. 2 Cold. 3 Fire. 4 Force. 5 Lightning. 6 Poison. 7 Psychic. 8 Thunder.
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
+A creature can be targeted only once by each casting of this spell.
+
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+21  13
+CONSTITUTION SAVE (4)
+11
+CONSTITUTION SAVE (4)
+Kody M.:
+10
+INTIMIDATION (3)
+Ashlee Umber:
+7
+CONSTITUTION SAVE (4)
+8
+STEALTH (4)
+Kody M.:rolling d20
+(
+11
+)
+=11
+Ashlee Umber:
+9
+CONSTITUTION SAVE (4)
+Kody M.:
+10
+CONSTITUTION (2+1)
+Ashlee Umber:
+DC14
+Intelligence Save
+You craft an illusion that takes root in the mind of a creature that you can see within range. The target must make an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other visible phenomenon of your choice that is no larger than a 10-foot cube and that is perceivable only to the target for the duration. This spell has no effect on undead or constructs.
+The phantasm includes sound, temperature, and other stimuli, also evident only to the creature.
+The target can use its action to examine the phantasm with an Intelligence (Investigation) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
+While a target is affected by the spell, the target treats the phantasm as if it were real. The target rationalizes any illogical outcomes from interacting with the phantasm. For example, a target attempting to walk across a phantasmal bridge that spans a chasm falls once it steps onto the bridge. If the target survives the fall, it still believes that the bridge exists and comes up with some other explanation for its fall - it was pushed, it slipped, or a strong wind might have knocked it off.
+An affected target is so convinced of the phantasm's reality that it can even take damage from the illusion. A phantasm created to appear as a creature can attack the target. Similarly, a phantasm created to appear as fire, a pool of acid, or lava can burn the target. Each round on your turn, the phantasm can deal 1d6 psychic damage to the target if it is in the phantasm's area or within 5 feet of the phantasm, provided that the illusion is of a creature or hazard that could logically deal damage, such as by attacking. The target perceives the damage as a type appropriate to the illusion.
+3
+Psychic
+60 feet
+Phantasmal Force
+14
+CHARISMA SAVE (6)
+Kody M.:
+10  14
+STEALTH (5)
+Ashlee Umber:
+15
+DEATH SAVE (0)
+Kody M.:
+11
+STEALTH (5)
+23.17
+INITIATIVE (4.17)
+23
+STEALTH (5)
+15.17
+INITIATIVE (4.17)
+15
+STEALTH (5)
+Flabnatz (GM):rolling d20
+(
+18
+)
+=18
+rolling d20
+(
+20
+)
+=20
+Mike:
+11
+PERCEPTION (0)
+Kody M.:Does being unconscious count as a long rest for spell purposes :-D
+Yea.. figured as much
+Varnōk Todorim:
+6
+PERSUASION (5)
+6
+PERCEPTION (0)
+Divine Sense
+Class: Paladin
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestia⁠l, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampi⁠re Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.
+You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
+(From Flabnatz (GM)): Ash, you immediately recognize the figure as your goblin friend, Fig
+(To GM): oh my
+(From Flabnatz (GM)): but she does not recognize you
+Kody M.:
+9
+PERSUASION (4)
+21
+PERSUASION (4)
+(From Flabnatz (GM)): something similar to what past you would do or no?
+(To GM): yeah
+(From Flabnatz (GM)): you notice a confused expression on her face as you walk past and she sniffs loudly as you pass
+Kody M.:we are all polight af
+we are all polite af
+(From Flabnatz (GM)): and she gives you a knowing look after breathing in your scent
+Varnōk Todorim:
+18  23
+PERSUASION (5)
+Kody M.:Noice
+(From Flabnatz (GM)): Fig interactions?
+(To GM): yeah, while we're alone a little bit I'm going to slip my bonds - I'll talk it through
+(From Flabnatz (GM)): to switch back to your perspective live?
+(To GM): yeah
+(From Flabnatz (GM)): thumbs up
+Kody M.:da fuq
+(From Flabnatz (GM)): what was your name in Mettis...? that Fig would know?
+(To GM): maika
+Ashlee Umber:
+Misty Step
+Conjuration 2
+Casting Time: 1 bonus action
+Range: Self
+Target: Self
+Components: V
+Duration: Instantaneous
+Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
+SPELL SAVE DC: 14
+20
+ARCANA (0)
+Kody M.:https://twitter.com/JeremyECrawford/status/635883187856478208
+"It's up to the DM. I'd say you could teleport out of bonds that are fixed to a wall or the like."
+I really like the idea of the 3 goblins losing their trenchcoat when they have to misty step
+(To GM): she may recognize my special card
+(From Flabnatz (GM)): plays much as she always did with Maika...it feels somewhat normal, like things were back then for just a moment
+Kody M.:
+24
+PERFORMANCE (4)
+10
+CHARISMA (2+1)
+(From Flabnatz (GM)): she asks are you maika? can I ask that aloud to all...?"
+(To GM): probably best to keep that not public. And I don't say yes or no. I say that we should talk in private about this.
+Ashlee Umber:
+19  24
+PERSUASION (6)

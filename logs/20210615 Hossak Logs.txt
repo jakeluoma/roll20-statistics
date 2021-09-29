@@ -1,0 +1,282 @@
+(From Raven Amazing): you should add in Resident Evil saferoom music
+Kody M.:rolling d20
+(
+8
+)
+=8
+(To Raven Amazing): good idea!
+(From Raven Amazing): the last song reminded me of it
+Jake:
+4  12
+SURVIVAL (0)
+Average for HP
+Average:4
+Raven Amazing:
+Roll for HP
+Roll 1:3
+Mike:
+7
+INSIGHT (3)
+Raven Amazing:
+6
+PERSUASION (-1)
+Varnōk Todorim:
+11
+PERSUASION (6)
+Kody M.:Roll initiative
+Varnōk Todorim:
+10  22
+ATHLETICS (7)
+Raven Amazing:
+5
+INSIGHT (4)
+14
+PERCEPTION (4)
+20 + 2
+80/320
+Light Crossbow (+7)
+8 + 2
+80/320
+Light Crossbow (+7)
+Flabnatz (GM):rolling 1d20 + 3
+(
+8
+)+3
+=11
+rolling 1d20 + 3
+(
+12
+)+3
+=15
+Raven Amazing:
+20 + 2
+80/320
+Light Crossbow (+7)
+Flabnatz (GM):rolling 1d20 + 3
+(
+9
+)+3
+=12
+rolling 1d20 + 3
+(
+15
+)+3
+=18
+Raven Amazing:
+25 + 2
+80/320
+Light Crossbow (+7)
+Flabnatz (GM):rolling 1d20 + 3
+(
+9
+)+3
+=12
+Raven Amazing:
+15 + 2
+80/320
+Light Crossbow (+7)
+Flabnatz (GM):rolling 1d20 + 3
+(
+10
+)+3
+=13
+Varnōk Todorim:rolling 1d20 + 7
+(
+12
+)+7
+=19
+Flabnatz (GM):rolling 1d20 + 5
+(
+13
+)+5
+=18
+Varnōk Todorim:rolling 1d20 + 7
+(
+11
+)+7
+=18
+Flabnatz (GM):rolling 1d20 + 5
+(
+7
+)+5
+=12
+Varnōk Todorim:rolling 1d20 + 7
+(
+5
+)+7
+=12
+Flabnatz (GM):rolling 1d20 + 5
+(
+8
+)+5
+=13
+Jake:
+18
+HISTORY (0)
+Kody M.:
+23
+PERCEPTION (4)
+(From Flabnatz (GM)): will you type your last question out for me?
+(To GM): what is your plan? Sure it's more than simply kidnapping people and recruiting more people.
+Jake:
+6
+STEALTH (5)
+Varnōk Todorim:
+15
+STEALTH (-1)
+Kody M.:
+16
+STEALTH (6)
+but its a 1
+Raven Amazing:
+16
+STEALTH (4)
+Ashlee Umber:
+6
+SURVIVAL (0)
+Raven Amazing:
+9
+SURVIVAL (1)
+Varnōk Todorim:
+8
+SURVIVAL (0)
+Kody M.:
+16
+SURVIVAL (2)
+yes
+Varnōk Todorim:
+7
+STEALTH (-1)
+Ashlee Umber:
+21
+STEALTH (5)
+Kody M.:
+Silence
+Illusion 2
+Casting Time: 1 action
+Range: 120 feet
+Target: 20-foot-radius sphere centered on a point you choose within range
+Components: V, S
+Duration: Concentration Up to 10 minutes
+For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
+SPELL SAVE DC: 13
+Ashlee Umber:
+DC15
+No damage or disadvantage on save
+Constitution Save
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+9
+Cold
+60 feet
+Frostbite
+Show Spell Description
+Flabnatz (GM):rolling d20
+(
+16
+)
+=16
+Raven Amazing:sorry im back
+Kody M.:
+18
+CHARISMA SAVE (5)
+Flabnatz (GM):
+5
+CHARISMA (2+1)
+(To GM): I'm going to use this chance to talk with her alone
+Ashlee Umber:
+18  4
+SURVIVAL (0)
+16
+PERCEPTION (0)
+11  14
+STEALTH (5)
+Kody M.:super hidden :)
+8
+NATURE (2)
+bowchickawowow
+Ashlee Umber:
+9
+PERSUASION (7)
+14
+STEALTH (5)
+Flabnatz (GM):rolling d20
+(
+6
+)
+=6
+Raven Amazing:
+17
+PERSUASION (-1)
+(To GM): that's when I would speak alone with Fig
+Kody M.:Take her under your fold, Ash
+Evar
+call us Evar
+Raven Amazing:But rave is right there...
+Ashlee Umber:
+23  17
+STEALTH (5)
+Raven Amazing:
+12
+STEALTH (4)
+Ashlee Umber:
+16  5
+SURVIVAL (0)
+Raven Amazing:
+19  5
+SURVIVAL (1)
+Kody M.:les Séducteurs Électriques
+l'Importance Scandaleuse
+Ashlee Umber:
+15
+INVESTIGATION (0)
+Kody M.:Pogo monster
+Raven Amazing:all the ?s
+Kody M.:
+20
+PERCEPTION (4)
+Varnōk Todorim:
+16
+PERCEPTION (0)
+Raven Amazing:
+2  16
+SURVIVAL (1)
+Ashlee Umber:
+8  6
+SURVIVAL (0)
+Kody M.:Ash and the Goblin Kintergarten
+11
+NATURE (2)
+9
+NATURE (2)
+9
+PERCEPTION (4)
+20
+ARCANA (6)
+Varnōk Todorim:
+Divine Sense
+Class: Paladin
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestia⁠l, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampi⁠re Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.
+You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
+Ashlee Umber:
+7
+INSIGHT (3)
+Raven Amazing:
+21  18
+SURVIVAL (1)
+Ashlee Umber:
+13  11
+SURVIVAL (0)
+Varnōk Todorim:rolling 1d100
+(
+57
+)
+=57
+11
+STEALTH (-1)
+Kody M.:
+13
+STEALTH (6)
+Varnōk Todorim:
+9
+PERCEPTION (0)

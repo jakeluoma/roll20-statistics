@@ -1,0 +1,125 @@
+Ashlee Umber:
+13.14
+INITIATIVE (2.14)
+Raven Amazing:
+9.2
+INITIATIVE (4.2)
+Kody M.:
+6.17
+INITIATIVE (4.17)
+Varnōk Todorim:
+17.08
+INITIATIVE (-0.92)
+Flabnatz (GM):
+19
+INSIGHT (7)
+Ashlee Umber:
+18
+PERCEPTION (0)
+Kody M.:
+14
+STEALTH (6)
+Ashlee Umber:
+13
+STEALTH (5)
+Raven Amazing:
+Delian Oath
+Other:
+I, Raven Amazing
+, swear the Delian Oath:
+
+I will serve justice, battle disorder, and
+
+Strive to maintain the Greater Delian Order.
+Varnōk Todorim:
+0
+HISTORY (-1)
+Raven Amazing:
+20
+INVESTIGATION (3)
+Elote Silver Tongue:rolling 1d40000
+(
+25175
+)
+=25175
+In delia, table eats you
+Varnōk Todorim:
+13
+INVESTIGATION (-1)
+Ashlee Umber:
+17
+DEXTERITY (2)
+rolling 1d8
+(
+7
+)
+=7
+Varnōk Todorim:
+2
+DEXTERITY (-1)
+Elote Silver Tongue:
+10
+NATURE (2)
+Varnōk Todorim:
+13
+HISTORY (-1)
+Elote Silver Tongue:The designers of these tables learned from https://userinyerface.com/
+22
+ARCANA (6)
+21
+INVESTIGATION (2)
+13
+ARCANA (6)
+(From Flabnatz (GM)): you are in a black space and cannot breath
+(From Flabnatz (GM)): you cannot move, you cannot see
+(To GM): minor illusion yelling first for Raven, second not to get in
+(To GM): it's somatic and material only
+Varnōk Todorim:
+9
+INTELLIGENCE (-1)
+Raven Amazing:
+12 + 2
+Sword of Edgar Linden-Delian Sword (+8)
+[Against Undead] (+3 to attack against undead) and it shines with golden light. Needs attunement.
+Prevents Undead Fortitude.
+8
+Piercing
+Elote Silver Tongue:
+FOR DESCRIPTION ONLY
+Identify
+Divination 1
+Casting Time: 1 minute
+Range: Touch
+Target: One object that you must touch throughout the casting of the spell
+Components: V, S, M (A pearl worth at least 100 gp and an owl feather)
+Duration: Instantaneous
+You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it. If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
+SPELL SAVE DC: 13
+rolling 1d40000
+(
+35340
+)
+=35340
+rolling 1d40000
+(
+37236
+)
+=37236
+rolling 1d40000
+(
+1209
+)
+=1209
+23
+DEXTERITY (3+1)
+rolling d8
+(
+6
+)
+=6
+Raven Amazing:
+2
+Fighting Style: Archery
+Ashlee Umber:
+7
+ARCANA (0)
